@@ -1,4 +1,5 @@
 # Welcome
+
 Thanks for reading.
 
 ## Cody-p2p profile
@@ -9,8 +10,12 @@ generated like entropy but for AI generation of source code using pseudo code.
 
 + Over time the code gets better.
 
-## Clients
+## Clients/License
+
+MIT source code
+
 ### Requests and Responses
+
 Please keep requests to the source code.
 Any response will be general.
 
@@ -27,10 +32,13 @@ To accomplish here use, the tool git, Github.
 ## Goals to achieve while I am available
 
 - Collaboration(Pull Requests)
-- open source community(Comments)
+
+- open source community( Comments )
 - open token source code( Credits )
+
 - Clean Code ( safe from bugs )
 - DRY KISS ( don't repeat yourself keep it super simple )
+
 - Good Comments ( upvote )
 - Response ( direct )
 - Make Friends ( sure! )
@@ -40,9 +48,7 @@ To accomplish here use, the tool git, Github.
 Do you want to help me out let me know by collaborating on my project.
 
 ## Security
-1FA - 1 Factor Login Username Password
-2FA - 2 Factor Authentication encryption
-3FA - 3 Factor Authentication (passkey)
+Open Software Group team member 
 
 ## Contact
 If you need to contact me about the code let me know with a subject.
