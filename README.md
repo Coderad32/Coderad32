@@ -19,22 +19,15 @@ MIT source code
 Please keep requests to the source code.
 Any response will be general.
 
-#### Servers
-
-## Introduction
-I have been programming for a number of years on personal projects that have never really
-taken off and well I want to keep going and master programming at least for this project.
-
 ## Talks about me
 
 To accomplish here use, the tool git, Github.
 
-## Goals to achieve while I am available
+## Short Term Goals 
 
 - Collaboration(Pull Requests)
-
 - open source community( Comments )
-- open token source code( Credits )
+- legacy group source code( Credits )
 
 - Clean Code ( safe from bugs )
 - DRY KISS ( don't repeat yourself keep it super simple )
@@ -48,7 +41,13 @@ To accomplish here use, the tool git, Github.
 Do you want to help me out let me know by collaborating on my project.
 
 ## Security
-Open Software Group team member 
+Open Software Group Security Team Member
+
++ available position [ open ]
++ available position [ team ]
++ closed position  [ closed ]
+
+available(positions)
 
 ## Contact
 If you need to contact me about the code let me know with a subject.
