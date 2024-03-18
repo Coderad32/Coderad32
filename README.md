@@ -1,15 +1,27 @@
 ## Welcome Readers
+
 ## Introduction
-Thanks for taking the time to read my information today.
-Any questions or comments about the project are located here-in.
++ Thanks for taking the time to read my information today.
+Any questions or comments about any of my projects are located here-in.
+Feel free to ask me questions! Always appreciate a tip or trick about programming.
 
 ## Sales & Marketing
 + Build
   - Research(write > new(file > information))
   - Develop(write > information(DATA))
   - rebuild(services)
-    
-## Security & Privacy
+ 
+## Milestones Visions Growth
++ Goals
+  - Set some new goals daily routine
++ Objective
+  - Primary command optsrc source code
++ Viewport
+  - vision of the final result
+  - extra credit always appreciated
+  - extra credit
+  
+## Security & Privacy Information
 
 ## Authentication and Access Control
 Use strong, unique passwords for all accounts.
@@ -32,12 +44,3 @@ Enable firewalls on all devices to control incoming and outgoing network traffic
 Educate employees on privacy policies and data handling procedures.
 Implement data minimization strategies to collect only necessary information.
 Regularly conduct privacy audits and assessments to ensure compliance.
-
-
-## Milestones Visions Growth
-+ Goals
-  - Set some new goals daily routine
-+ Objective
-  - Primary command optsrc source code
-+ Viewport
-  - vision of the final result
