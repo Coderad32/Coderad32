@@ -8,7 +8,7 @@ Feel free to ask me questions! Always appreciate a tip or trick about programmin
 ## Sales & Marketing
 + Build
   - Research(write > new(file > information))
-  - Develop(write > information(DATA))
+  - Demostration(write > information(DATA))
   - rebuild(services)
  
 ## Milestones Visions Growth
