@@ -48,3 +48,62 @@ Feel free to ask me questions! Always appreciate a tip or trick about programmin
 + Educate employees on privacy policies and data handling procedures.
 - Implement data minimization strategies to collect only necessary information.
 + Regularly conduct privacy audits and assessments to ensure compliance.
+
+>## Welcome | Resume 2024
+<hr>
+
+> ## Introduction Summary
+
+The following resume DATA for informational purposes for you to gather more information.
+
++ READ MORE [ ... ]
+
+Genearally you gotta work the dirt to get a result finding a way to over come difficultys.
+
+> DATA read( function file name )
+
+Example: DATA
+> ## Primary
+<code>- Mission my private @DATA</code>
+> ## Optional
+<code>- Mission our public $objective</code>
+
+> ## Console
+>  READ MORE
+- <code>SUB &command unit online { ... }</code>
+- <code>SUB command COMMAND { ... } </code>
+
+END of Example
+
+More information about this topic can be found online.
+
+
+> ## Workspace / INPUT
+
+> Setup network interface access (NIA)
+
+configuration of online services.
+input for DATA collection.
+output payment processing access.
+
+> ## Security / system
+Tokenization for security reasons.
++ test && test1case || test2 make new file
+> use case following
++ for if conditionals apply
+- IF CONDI
+- WARN USER
+> instructions manual
++ the following code is open source
++ 2024 use case for project templates
++ generate new templates
+> DATA collection access
++ internet access for DATA ccollection
++ private information encryption
++ public infastructer
+
+> ## Conculsion / DATA
+This has been some general information about myself and the information
+I wanted to share with you today.
+
+<code>connect if you want to learn more.</code>
