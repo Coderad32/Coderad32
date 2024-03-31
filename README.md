@@ -74,7 +74,7 @@ Example: DATA
 - <code>SUB command COMMAND { ... } </code>
 
 END of Example
-
+www.github.com/cody-p2p/
 More information about this topic can be found online.
 
 
@@ -87,6 +87,7 @@ input for DATA collection.
 output payment processing access.
 
 > ## Security / system
+> MAIN MENU
 Tokenization for security reasons.
 + test && test1case || test2 make new file
 > use case following
@@ -103,7 +104,7 @@ Tokenization for security reasons.
 + public infastructer
 
 > ## Conculsion / DATA
-This has been some general information about myself and the information
-I wanted to share with you today.
+This has been some general information 
+about myself and the information I wanted to share with you today.
 
 <code>connect if you want to learn more.</code>
