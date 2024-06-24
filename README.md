@@ -1,4 +1,4 @@
-# Hi there, I'm [Cody-p2p] 👋 2024
+# Hi there, I'm [Cody-p2p] 🔥 2024
 Thanks for taking the time to read more about my work.
 
 ## About Me
