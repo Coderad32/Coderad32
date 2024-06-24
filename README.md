@@ -22,6 +22,41 @@ If you would like to hire me for a `support role` let me _know_.
 If you would like to support: donate Hold on to it for me.
 Open Work
 
+## Goals
+
+- Short term goals.
+- I plan on making more goals.
+- Planning for goals
+- I plan on making more goals.
+- Setting what you want.
+- Write it down.
+- Where ? go ? do ? see ?
+- Evaluating goals.
+- Financial freedom.
+- independence.
+- Passive income stream.
+- Tokenization.
+- Purpose.
+- repetition.
+- routine.
+
+## Sharing is caring (p2p)
+
+Sharing is very important to friendship and making new friends
+p2p-network blockchain is the idea of freeing the world from its debt
+tokenization is about creating a consistant stream of DATA of quality
+a plan roadmap good ideas.
+
+*#p2p* *#blockchain* *#network*
+
+| html | css | js | bundler | dist |
+|---|---|---|---|---|
+| support |  service | system | openwork  | team support |
+| value | code | source  | credits | foundation |
+| core | concept | art | mit  |  2024 |
+| html | css | js | bundler | dist |
+|---|---|---|---|---|
+
 ## Contact
 
 If you need to contact me please `no spam`.
