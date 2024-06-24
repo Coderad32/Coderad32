@@ -7,7 +7,7 @@
 ##### I still need a job/training/career watch: /so /remote_online_offline_worker
 
 ## About Me
-<br>
+
 - 🔭 I’m currently working on [Mars Preserve Devops TEAM X ]
 - 🌱 I’m currently learning [How to program better]
 - 👯 I’m looking to collaborate on [any open source i can get my hands on]
