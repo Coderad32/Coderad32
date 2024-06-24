@@ -1,51 +1,49 @@
-# Hi there, I'm [Cody-p2p] 🔥 2024
-### Thanks for taking the time to read more about my work.
+# Greetings, I'm Cody-p2p! 🔥 2024
+### I appreciate you taking the time to learn more about my work.
 
-#### Note: If im not being creative at work Im not really working.
+#### Remember: If I'm not being creative at work, I'm not truly working.
 
-#### I am a passionate individual with motivation to move forwards in life.
-##### I still need a job/training/career watch: /so /remote_online_offline_worker
+#### I'm a passionate individual, always motivated to keep moving forward in life.
+##### I'm currently seeking job opportunities, training, or a career path. Open to both remote and on-site positions.
 
 ## About Me
 
-- 🔭 I’m currently working on [Mars Preserve Devops TEAM X ]
-- 🌱 I’m currently learning [How to program better]
-- 👯 I’m looking to collaborate on [any open source i can get my hands on]
-- 🤔 I’m looking for help with [Programming Projects]
-- 💬 Ask me about [whatever im a open book]
-- 📫 How to reach me: [email me or find me online X/spaces ]
-- ⚡ Fun fact: [if you call me I might answer]
+- 🔭 I’m currently part of the Mars Preserve Devops TEAM X.
+- 🌱 I’m learning to improve my programming skills.
+- 👯 I’m eager to collaborate on any open-source projects I can contribute to.
+- 🤔 I’m looking for assistance with Programming Projects.
+- 💬 Feel free to ask me anything, I'm an open book.
+- 📫 Reach me via email or find me online at X/spaces.
+- ⚡ Fun fact: If you call me, I might just answer!
 
 ## Support 
 
-If you would like to hire me for a `support role` let me _know_.
-If you would like to support: donate Hold on to it for me.
+If you're interested in hiring me for a support role, please let me know.
+If you'd like to support me, consider making a donation. Hold on to it for me.
 Open Work
 
 ## Goals
 
-- Short term goals.
-- I plan on making more goals.
-- Planning for goals
-- I plan on making more goals.
+- Short-term goals.
+- I'm in the process of setting more goals.
+- Planning for goals.
 - Setting what you want.
 - Write it down.
-- Where ? go ? do ? see ?
+- Where to go? What to do? What to see?
 - Evaluating goals.
-- Financial freedom.
-- independence.
-- Passive income stream.
-- Tokenization.
-- Purpose.
-- repetition.
-- routine.
+- Achieving financial freedom.
+- Gaining independence.
+- Establishing a passive income stream.
+- Exploring tokenization.
+- Finding purpose.
+- Embracing repetition and routine.
 
-## Sharing is caring (p2p)
+## Sharing is Caring (p2p)
 
-Sharing is very important to friendship and making new friends
-p2p-network blockchain is the idea of freeing the world from its debt
-tokenization is about creating a consistant stream of DATA of quality
-a plan roadmap good ideas.
+Sharing is crucial to building friendships and making new connections.
+The p2p-network blockchain aims to free the world from debt.
+Tokenization is about creating a consistent stream of quality DATA.
+A plan roadmap good ideas.
 
 *#p2p* *#blockchain* *#network*
 
@@ -59,4 +57,4 @@ a plan roadmap good ideas.
 
 ## Contact
 
-If you need to contact me please `no spam`.
+If you need to contact me, please do so respectfully. `No spam, please`.
