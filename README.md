@@ -6,7 +6,7 @@
 #### I'm a passionate individual, always motivated to keep moving forward in life.
 ##### I'm currently seeking job opportunities, training, or a career path. Open to both remote and on-site positions.
 
-## About Me
+## About Me -- have questions leave a comment on my X/twitter account #coderad32
 
 - 🔭 I’m currently part of the Mars Preserve Devops TEAM X.
 - 🌱 I’m learning to improve my programming skills.
@@ -29,7 +29,6 @@ Open Work
 - Planning for goals.
 - Setting what you want.
 - Write it down.
-- Where to go? What to do? What to see?
 - Evaluating goals.
 - Achieving financial freedom.
 - Gaining independence.
@@ -47,13 +46,14 @@ A plan roadmap good ideas.
 
 *#p2p* *#blockchain* *#network*
 
-| html | css | js | bundler | dist |
-|---|---|---|---|---|
-| support |  service | system | openwork  | team support |
-| value | code | source  | credits | foundation |
-| core | concept | art | mit  |  2024 |
-| html | css | js | bundler | dist |
-|---|---|---|---|---|
+Build a digital foundation used for tokenization of a project retaining the true value
+of the foundation. The project would be tokenization side-chain network with the intent
+of making money with a project-setup. 
+
+## Setup / Configuration
+
+remtoe module setup
+confirm setup exe wizard-cli
 
 ## Contact
 
