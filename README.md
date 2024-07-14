@@ -1,104 +1,126 @@
-# Greetings, I'm Cody-p2p! 🔥 2024
+# Welcome
 
- I appreciate you taking the time to learn more about my work.
+I appreciate you taking the time to learn more about my work. Feedback is always taken into account.
 
-    Feedback is always taken into account.
+I'm a passionate individual, always motivated to keep moving forward in life. I'm currently seeking job opportunities, training, or a career path. Open to both remote and on-site positions.
 
- Remember: If I'm not being creative at work, I'm not truly working.
+If I'm not being creative at work, I'm not truly working.
 
-I'm a passionate individual, always motivated to keep moving forward in life.
+## About Me
 
-I'm currently seeking job opportunities, training, or a career path. 
+I’m currently working on open source projects and learning to improve my tech coding skills. I'm ready and eager to collaborate on any open-source projects where I can contribute and earn a sustainable living.
 
-Open to both remote and on-site 
-positions.
+Looking for assistance with programming or writing projects? Comments and feedback are appreciated! Reach me via email or find me on my social profiles.
 
-## About Me -- have questions leave a comment on my X/twitter account #coderad32
+## Goals
 
- 🔭 I’m currently part of the Mars Preserve Devops team.
- 🌱 I am learning to improve my tech skills.
+- Resume / CV
+- Find Job
+- Pass Interview
+- Do Job
+- Get Paid
 
- 👯 Ready, eager to collaborate on any open-source projects I can contribute to open source and earn a living/sustainable.
+## Resume / CV
 
- 🤔 So ... looking for assistance with Programming/writing Projects ?
- 💬 Comments: Feedback is appreciated!
+# CJ
 
- 📫 Reach me via email or find me here.
- ⚡ Working on the project from home.
+**Email:** email @ gmail com  
+**Phone:** (123) 456-0000  
+**LinkedIn:** linkedin.com/in/cody  
+**GitHub:** github.com/cody-p2p
 
-## Support 
+---
 
-If you're interested in hiring me for a support role, please let me know.
-If you'd like to support me, consider making a donation. Hold on to it for me.
-Open Work
+## Summary
 
-## Short Range Goals
+I am a talented individual ready for the next challenge. I look forward to working with a team of like-minded people and am ready and willing to go the extra mile for the customer. My short-term goals include landing a job and making some money for future growth.
 
-- Short-term goals.
-- I'm in the process of setting more goals.
-- Planning for goals.
-- Setting what you want.
-- Write it down.
-- Evaluating goals.
+---
 
-## More so
+## Experience
 
-- Achieving financial freedom.
-- Gaining independence.
-- Establishing a passive income stream.
-- Exploring tokenization.
-- Finding purpose.
-- Embracing repetition and routine.
+ Busser - F&B Temp Agency
+Colorado
+Jan 2024 - July 2024
 
-## Sharing is Caring (p2p) service API
+Dishwashing: Maintained cleanliness and hygiene in the kitchen.
+Prepping: Assisted with food preparation, including reading and following recipes.
+Training: Participated in various training programs to improve skills.
 
-Sharing is crucial to building friendships and making new connections.
-The p2p-network blockchain aims to free the world from debt.
-Tokenization is about creating a consistent stream of quality DATA.
-A plan roadmap good ideas.
+Developer - Legacy Software
+Colorado
 
-*#p2p* *#blockchain* *#network*
+Develop my website from scratch.
 
-`Build` a digital foundation used for `tokenization` of a project retaining the true value
-of the foundation. The project would be `tokenization side-chain network` with the intent
-of making money with a `project-setup.` 
+---
 
-## Setup / Configuration
+## Education
 
-remote module setup
-confirm setup exe wizard-cli
+### Diploma - Battle Mountain High School
+**Edwards**  
+*april 2006 - march 2010*
 
-- setup exe wizard
+- **General Study**
+- **Strive For Five**
 
-## Contact
+---
 
-If you need to contact me, please do so respectfully. `No spam, please`.
+## Skills
 
-# Open Work
+- **IT:** Solid understanding.
+- **Security:** Knowledgeable in security protocols.
+- **FAQ:** Proficient in creating and managing FAQs.
 
-## Table of Contents
-1. Introduction
-2. Installation
-3. Usage
-4. Contributing
-5. License
+---
 
-## Introduction
-This project is an AI application designed to solve [problem or task]. It uses [algorithms or methods] and is implemented in [programming languages or frameworks].
+## Projects
 
-## Installation
-To install this project, follow these steps:
+### GitHub Resume
+**Description:** Created a new resume for myself via GitHub.
 
-1. Clone the repository: `git clone https://github.com/username/projectname.git`
-2. Navigate to the project directory: `cd projectname`
-3. Install the required dependencies: `pip install -r requirements.txt`
+### Personal Website
+**Description:** Developed a new website for myself and hosted it locally.
 
-## Usage
-To use this project, [provide instructions on how to run or use the project].
+---
 
-## Contributing
-Contributions to this project are welcome. If you're interested in contributing, please see the CONTRIBUTING.md file for guidelines.
+## Certifications
 
-## License
-This project is licensed under the [license name]. See the LICENSE file for details.
+- **Google IT Certification** - Google, *July 4, 2024*
 
+---
+
+## Interests
+
+- **Photography**
+- **Development**
+- **Woodworking**
+
+---
+
+## Find Job
+
+If you're interested in hiring me for a support role, please let me know. If you'd like to support me, consider making a donation.
+
+---
+
+## Pass Interview
+
+If I am qualified, let me know.
+
+---
+
+## Do Job
+
+Get the job and go to work.
+
+---
+
+## Get Paid
+
+Nice job. Check.
+
+---
+
+## Credits
+
+CJ - Cody James 2024
