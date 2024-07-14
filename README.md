@@ -39,7 +39,7 @@ I am a talented individual ready for the next challenge. I look forward to worki
 
 ## Experience
 
- Busser - F&B Temp Agency
+ Busser - F&B
 Colorado
 Jan 2024 - July 2024
 
@@ -47,7 +47,7 @@ Dishwashing: Maintained cleanliness and hygiene in the kitchen.
 Prepping: Assisted with food preparation, including reading and following recipes.
 Training: Participated in various training programs to improve skills.
 
-Developer - Legacy Software
+Developer - 
 Colorado
 
 Develop my website from scratch.
@@ -56,7 +56,7 @@ Develop my website from scratch.
 
 ## Education
 
-### Diploma - Battle Mountain High School
+### Diploma - 
 **Edwards**  
 *april 2006 - march 2010*
 
