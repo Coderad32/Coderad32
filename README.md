@@ -1,10 +1,7 @@
 ## About ::
 
 \About-me
-Call me C.J. I am an enthusiastic web developer from Colorado
-United States I work remotly from the mountains looking for work 
-currently so I am working on my Github profile making it better by adding
-tips and tricks to my Account. I could go for a coffee & joint; someday.
+Hi, I’m C.J., an enthusiastic web developer based in the beautiful mountains of Colorado, USA. I work remotely and am currently on the lookout for new job opportunities. In the meantime, I’m enhancing my GitHub profile by adding valuable tips and tricks. I enjoy a good coffee and a joint; maybe we can share one someday.
 
 ## Community Share Projects
 I am currently working on open source projects hosted on my Github account.
