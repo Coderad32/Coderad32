@@ -1,5 +1,25 @@
-## About Me
+## About ::
 
-I am currently immersed in open-source projects, continually honing my tech coding skills. My passion lies in collaborating on open-source initiatives where I can make meaningful contributions and earn a sustainable living.
+\About-me
+Call me C.J. I am an enthusiastic web developer from Colorado
+United States I work remotly from the mountains looking for work 
+currently so I am working on my Github profile making it better by adding
+tips and tricks to my Account. I could go for a coffee & joint; someday.
 
-Feel free to reach out. I welcome comments and feedback! Outside of work, I am an avid outdoor enthusiast, enjoying activities such as camping, hiking, and trail running. I also cherish spending quality time with loved ones. I am optimistic about a future filled with opportunities and freedom in my career and job.
+## Community Share Projects
+I am currently working on open source projects hosted on my Github account.
+If you want to connect with me feel free to do so on X/platform. @Coderad32
+
+## Optional Work | Upgrades
+All Code here is provided AS IS and is Optional.
+
+- MIT 2024
+- Creative Commons 3.0
+- Web 4.0
+
+## Open Source Work (profile)
+I love to help out let me know send a link to a repo fork or start a template project.
+Thanks for letting me know what you think about my profile and repo work.
+
+## last changemod | update
+Thursday, August 8, 2024 7:19:01 PM
