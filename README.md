@@ -172,4 +172,9 @@ system( connect :system: )
 "Please feel free to reach out for questions or comments or evens forks. -C.J."
 
 
-- Cody James ( Foundation ) Developer
+CC BY (2024)
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. CC BY includes the following elements:
+
+ BY: credit must be given to the creator.
+ 
+- Cody James ( Foundation ) Developer / Founder
