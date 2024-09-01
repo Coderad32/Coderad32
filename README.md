@@ -3,7 +3,7 @@
 ### Welcome
 "Thank you for visiting our project workspace on GitHub, made possible by our sponsors and the dedicated individuals who contribute to our development efforts.
 
-At Foundation Blockchain, we define blockchain as a simple concept: connecting computers together using a program. While a common definition describes blockchain as a decentralized ledger, we take it a step further. In our view, blockchain is a collection of interconnected ideas that form a concept, driving innovation and development towards a specific goal."
+At Foundation `Blockchain`, we define `blockchain` as a simple concept: connecting computers together using a program. While a common definition describes `blockchain` as a decentralized ledger, we take it a step further. In our view, `blockchain` is a collection of interconnected ideas that form a concept, driving innovation and development towards a specific goal."
 
 ```perl
 
@@ -16,23 +16,23 @@ At Foundation Blockchain, we define blockchain as a simple concept: connecting c
 - support.connect.system -> system_connect()
 
 ```
-Blockchain tokens are digital assets that are built on top of a blockchain network. They are often used to represent a specific value, utility, or ownership in a particular project or ecosystem. Tokens can be thought of as a digital representation of a physical asset, such as a stock or a commodity, but they exist only in the digital realm.
+`Blockchain`` tokens `are 'digital assets' that are built on top of a `blockchain` network. They are often used to represent a specific value, utility, or ownership in a particular project or ecosystem.` Tokens `can be thought of as a digital representation of a physical asset, such as a stock or a commodity, but they exist only in the digital realm.
 
-There are several types of blockchain tokens, including:
+There are several types of `blockchain` tokens, including:
 
-Utility tokens: These tokens are used to access a specific service or product within a blockchain-based platform. For example, a token might be used to pay for transactions on a decentralized exchange.
-Security tokens: These tokens represent ownership in a company or project and can be used to raise capital through initial coin offerings (ICOs).
-Payment tokens: These tokens are used as a form of digital currency, similar to Bitcoin or Ethereum.
-NFT tokens (Non-Fungible Tokens): These tokens represent unique digital assets, such as art, collectibles, or virtual real estate.
-Governance tokens: These tokens are used to vote on decisions within a blockchain-based project or community.
-Blockchain tokens can be created using various blockchain platforms, such as Ethereum, Binance Smart Chain, or Polkadot. They can be traded on cryptocurrency exchanges, used to access specific services, or held as an investment.
+Utility tokens: These` tokens `are used to access a specific service or product within a `blockchain`-based platform. For example, a token might be used to pay for transactions on a decentralized exchange.
+Security tokens: These` tokens `represent ownership in a company or project and can be used to raise capital through initial coin offerings (ICOs).
+Payment tokens: These` tokens `are used as a form of digital currency, similar to Bitcoin or Ethereum.
+NFT` tokens `(Non-Fungible Tokens): These` tokens `represent unique 'digital assets', such as art, collectibles, or virtual real estate.
+Governance tokens: These` tokens `are used to vote on decisions within a `blockchain`-based project or community.
+`Blockchain`` tokens `can be created using various `blockchain` platforms, such as Ethereum, Binance Smart Chain, or Polkadot. They can be traded on cryptocurrency exchanges, used to access specific services, or held as an investment.
 
-Some key characteristics of blockchain tokens include:
+Some key characteristics of `blockchain`` tokens `include:
 
-Decentralized: Tokens are stored on a blockchain network, which means that they are not controlled by a single entity.
-Digital: Tokens exist only in the digital realm and are not physical assets.
-Programmable: Tokens can be programmed to have specific rules and regulations, such as smart contracts.
-Transferable: Tokens can be transferred from one person to another, similar to physical currency.
+Decentralized:` Tokens `are stored on a `blockchain` network, which means that they are not controlled by a single entity.
+Digital:` Tokens `exist only in the digital realm and are not physical assets.
+Programmable:` Tokens `can be programmed to have specific rules and regulations, such as smart contracts.
+Transferable:` Tokens `can be transferred from one person to another, similar to physical currency.
 ```perl
 
 ###############
@@ -67,7 +67,7 @@ connect: connected.
 ```
 
 
-## Tokenize
+## Tokenize / Value of units
 
 "Tokenization is a process about creating value inside a unit
 for each unit has a value but some have more value than others."
@@ -78,7 +78,7 @@ having to question it for example reading a scematic you would see
 or a video that would show you about how to do a specific task."
 
 
-## Options
+## Options / Brief
 
 "This section talks about options and what every user can do with their support role
 Each option is for the foundation and every member can take a stake or a part
@@ -108,9 +108,7 @@ To create a workspace and development team at the foundation."
 
 ## Growth / Teamwork 1.0
 
-"We plan to scale operations in the foundation by understanding better what we can do for you as 
-an orginization shaping the project around the user and creating a sustatainable formation to take place.
-While this takes shape under the hood or behind the scenes while under development."
+"We plan to scale operations in the foundation by understanding better what we can do for you as an orginization shaping the project around the user and creating a sustatainable formation to take place. While this takes shape under the hood or behind the scenes while under development."
 
 ```perl
 ## Outlook
@@ -122,27 +120,39 @@ While this takes shape under the hood or behind the scenes while under developme
 # import warnings;
 # return 1;
 # EOFTL file transfer line;
+
 ```
-Key characteristics of decentralized tokens include:
 
-Decentralized governance: Decentralized tokens are governed by a decentralized network of nodes, rather than a central authority. This means that decisions are made collectively by the network, rather than by a single entity.
+Key characteristics of decentralized` tokens `include:
 
-Open-source: Decentralized tokens are often built on open-source code, which allows for transparency and community involvement in the development process.
+## Decentralized governance: 
+Decentralized` tokens `are governed by a decentralized network of nodes, rather than a central authority. This means that decisions are made collectively by the network, rather than by a single entity.
 
-Immutable: Decentralized tokens are stored on a blockchain, which means that once a transaction is confirmed, it is immutable and cannot be altered or deleted.
+## Open-source: 
+Decentralized` tokens `are often built on open-source code, which allows for transparency and community involvement in the development process.
 
-Transparent: Decentralized tokens are transparent, meaning that all transactions and balances are publicly visible on the blockchain.
+## Immutable: 
+Decentralized` tokens `are stored on a `blockchain`, which means that once a transaction is confirmed, it is immutable and cannot be altered or deleted.
 
-Secure: Decentralized tokens are secured by cryptography and the decentralized network of nodes, making it difficult for a single entity to manipulate or control the network.
-Decentralized tokens can be used for a variety of purposes, including:
+## Transparent: 
+Decentralized` tokens `are transparent, meaning that all transactions and balances are publicly visible on the `blockchain`.
 
-Payment systems: Decentralized tokens can be used as a form of digital currency, allowing for peer-to-peer transactions without the need for intermediaries.
+## Secure: 
+Decentralized` tokens `are secured by cryptography and the decentralized network of nodes, making it difficult for a single entity to manipulate or control the network.
 
-Smart contracts: Decentralized tokens can be used to create and execute smart contracts, which are self-executing contracts with the terms of the agreement written directly into lines of code.
-Decentralized applications (dApps): Decentralized tokens can be used to create decentralized applications, which are applications that run on a blockchain network and are decentralized by design.
+Decentralized` tokens `can be used for a variety of purposes, including:
 
-Governance: Decentralized tokens can be used to create decentralized governance systems, where decisions are made collectively by the network.
-Examples of decentralized tokens include:
+## Payment systems: 
+Decentralized` tokens `can be used as a form of digital currency, allowing for peer-to-peer transactions without the need for intermediaries.
+
+## Smart contracts: 
+Decentralized` tokens `can be used to create and execute smart contracts, which are self-executing contracts with the terms of the agreement written directly into lines of code.
+
+## Decentralized applications (dApps):
+ Decentralized` tokens `can be used to create decentralized applications, which are applications that run on a `blockchain` network and are decentralized by design.
+
+Governance: Decentralized` tokens `can be used to create decentralized governance systems, where decisions are made collectively by the network.
+Examples of decentralized` tokens `include:
 
 - Ethereum's Ether (ETH)
 - Bitcoin's Bitcoin (BTC)
