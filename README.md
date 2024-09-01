@@ -122,8 +122,33 @@ While this takes shape under the hood or behind the scenes while under developme
 # import warnings;
 # return 1;
 # EOFTL file transfer line;
-
 ```
+Key characteristics of decentralized tokens include:
+
+Decentralized governance: Decentralized tokens are governed by a decentralized network of nodes, rather than a central authority. This means that decisions are made collectively by the network, rather than by a single entity.
+
+Open-source: Decentralized tokens are often built on open-source code, which allows for transparency and community involvement in the development process.
+
+Immutable: Decentralized tokens are stored on a blockchain, which means that once a transaction is confirmed, it is immutable and cannot be altered or deleted.
+
+Transparent: Decentralized tokens are transparent, meaning that all transactions and balances are publicly visible on the blockchain.
+
+Secure: Decentralized tokens are secured by cryptography and the decentralized network of nodes, making it difficult for a single entity to manipulate or control the network.
+Decentralized tokens can be used for a variety of purposes, including:
+
+Payment systems: Decentralized tokens can be used as a form of digital currency, allowing for peer-to-peer transactions without the need for intermediaries.
+
+Smart contracts: Decentralized tokens can be used to create and execute smart contracts, which are self-executing contracts with the terms of the agreement written directly into lines of code.
+Decentralized applications (dApps): Decentralized tokens can be used to create decentralized applications, which are applications that run on a blockchain network and are decentralized by design.
+
+Governance: Decentralized tokens can be used to create decentralized governance systems, where decisions are made collectively by the network.
+Examples of decentralized tokens include:
+
+- Ethereum's Ether (ETH)
+- Bitcoin's Bitcoin (BTC)
+- Polkadot's DOT
+- Solana's SOL
+
 ### Scalability Growth 2.0
 
 "Over the course of a few months of work we plan to grow operations 
