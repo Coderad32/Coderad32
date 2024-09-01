@@ -70,7 +70,7 @@ or a video that would show you about how to do a specific task."
 Each option is for the foundation and every member can take a stake or a part
 To create a workspace and development team at the foundation."
 
-> open source founation software support fork
+> open source foundation software support fork
 
 - 1. A fund a way forward        # Push forwards
 - 2. B take part in giving back  # Take A Gamble
