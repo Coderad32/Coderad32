@@ -24,7 +24,7 @@ Thanks for reading and if you would like more information please let me know.
 
 ```
 
-sub console()
+sub console{ ... }
 
   import os
   import warnings
