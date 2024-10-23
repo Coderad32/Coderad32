@@ -9,3 +9,7 @@ I would like to dedicate these works to the people who make it possible. Your co
 ## Project Information
 
 This project is hosted on GitHub at github.com/cody-p2p. I invite you to explore the repository, contribute to the development, and stay up-to-date with the latest updates.
+
+## Moving Onwards From Coding
+
+Today I change what I am doing.
