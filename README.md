@@ -1,7 +1,7 @@
 ## Authorship and Ownership
 ### Last Update  Mon Nov 11 01:30:18 MST 2024
 
-I would like to dedicate these works to the people who make it possible. Your contributions, feedback, and encouragement have been invaluable in shaping this project. Time goes on without sponsorship or donations I find it hard to surivive in life
+I would like to dedicate these works to the people who make it possible. Your contributions, feedback, and encouragement have been invaluable in shaping this project. Time goes on without sponsorship or donations I find it hard to survive in life
 so I must move onwards.
 
 Also to note: I work alone but would love to work with other people so I could have some feedback suggestions or general comments.
