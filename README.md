@@ -57,7 +57,11 @@ it features:
 ## META CONFIGS
 
 + Universal ( DATABASE )   -> established technology
+
+  Fresh Constant DATA from sensors
+  
 + Equational ( THEORY )    -> proof of time
+  
 + Computation ( PRACTICE ) -> proof of work
 
 ### work-balance-life
@@ -83,6 +87,9 @@ If your negative you wont get much response generally.
 - Pre stage development
 - Updates for software support
 - Documentation for supporting software services
+- Chat support for real time communications
+
+<br>
 
 ## Notes about the code you see
 
