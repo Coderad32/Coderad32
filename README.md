@@ -1,3 +1,4 @@
+```
 ## Authorship and Ownership
 ### Last Update  Mon Nov 11 01:30:18 MST 2024
 
@@ -17,15 +18,48 @@ Learning to code is still on my mind.
 Using AI tools to achive this knowledge.
 
 Remember what I need to rememeber, and what I dont need too.
+Its easy to find the information and make a sample about it
+as a reference to the DATA.
 
 ## Moving Forwards In Life
 
 Fear is nothing to let your life be determined by.
 So with that being said what is hindering me at the moment ?
 
-- Employment
-- Wealth generation
-- Relationships
+- Employment( job role )
+- Wealth generation( funds )
+- Relationships( networking )
+
+## OFFLINE DATA
+
+In the real world I sit behind a stationary that I built myself
+it features:
+
+-Two boards 
+-Two different types of desk
+-Three differnet lights
+-A dual monitor (television set)
+-PS/1 console with games
+-A secondary keyboard 
+-4k Camera ( sort of )
+
+<br>
+
+- Books( shell bash bible )
+- Think Perl(raku perl 6ish)
+- The blockchain developer
+- mastering machine learning 
+- Thermos H20(water)
+- -=/+_ Character EQ
+- +-/+_  Additional Underscored
+
+
+
+## META CONFIGS
+
++ Universal ( DATABASE )   -> established technology
++ Equational ( THEORY )    -> proof of time
++ Computation ( PRACTICE ) -> proof of work
 
 ### work-balance-life
 
@@ -47,6 +81,10 @@ This project is hosted on GitHub at github.com/cody-p2p.
 I invite you to explore the repository, contribute to the development, and stay up-to-date with the latest updates.
 If your negative you wont get much response generally.
 
+- Pre stage development
+- Updates for software support
+- Documentation for supporting software services
+
 ## Notes about the code you see
 
 Mostly all the code comes from groq.com/
@@ -55,7 +93,7 @@ I used it to find the answers to the questions I have about programming
 so please take that into account. If you would like to use any of the code
 source show on my profile please feel free to grab what you like.
 
-## CC-CS 
+## CC-CS-CA-CBRE 
 2025 copyright Cody-p2p
 
 > Thanks for your time.
