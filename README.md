@@ -1,4 +1,3 @@
-```
 ## Authorship and Ownership
 ### Last Update  Mon Nov 11 01:30:18 MST 2024
 
