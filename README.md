@@ -34,13 +34,13 @@ So with that being said what is hindering me at the moment ?
 In the real world I sit behind a stationary that I built myself
 it features:
 
--Two boards 
--Two different types of desk
--Three differnet lights
--A dual monitor (television set)
--PS/1 console with games
--A secondary keyboard 
--4k Camera ( sort of )
+- Two boards 
+- Two different types of desk
+- Three differnet lights
+- A dual monitor (television set)
+- PS/1 console with games
+- A secondary keyboard 
+- 4k Camera ( sort of )
 
 <br>
 
