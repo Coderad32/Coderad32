@@ -1,14 +1,21 @@
-## Authorship and Ownership
-### Last Update  Mon Nov 11 01:30:18 MST 2024
+## Written Authorship and Source Code Ownership
+### Last Update: Wed Nov 20 20:32:41 MST 2024
 
-I would like to dedicate these works to the people who make it possible. Your contributions, feedback, and encouragement have been invaluable in shaping this project. Time goes on without sponsorship or donations I find it hard to survive in life
-so I must move onwards.
+I would like to dedicate these works to the people who make it possible. 
+
+Your contributions, feedback, and encouragement have been invaluable in shaping this project. 
 
 Also to note: I work alone but would love to work with other people so I could have some feedback suggestions or general comments.
 
+- Each project I would like to compelete and spend some more time to develope.
+
 ## Welcome and Acknowledgments
 
-I would like to extend my gratitude to my sponsors and career manager for their continued support. Without their help, this project would not be possible. - Legacy
+Thanks for taking the time to read about the project for more information please use our online
+link below in resources.
+
+I would like to extend my gratitude to my sponsors and career manager for their continued support. 
+Without their help, this project would not be possible. 
 
 ## Moving Onwards From Coding
 
@@ -25,44 +32,20 @@ as a reference to the DATA.
 Fear is nothing to let your life be determined by.
 So with that being said what is hindering me at the moment ?
 
-- Employment( job role )
-- Wealth generation( funds )
-- Relationships( networking )
+- Employment( next job role )
+- Wealth generation( more funds )
+- Relationships( networking... )
 
-## OFFLINE DATA
+Employment figures would be better than nothing
+but fortuently you can start from experience 
+and the proof of work/concept of proof.
 
-In the real world I sit behind a stationary that I built myself
-it features:
+Wealth generation would be about storing wealth
+and additional wealth generation keeping value
+over time and adding value to a compounding interest.
 
-- Two boards 
-- Two different types of desk
-- Three differnet lights
-- A dual monitor (television set)
-- PS/1 console with games
-- A secondary keyboard 
-- 4k Camera ( sort of )
+- Relationships Networking ... Continued Support For Networking Relationships(inter+node)
 
-<br>
-
-- Books( shell bash bible )
-- Think Perl(raku perl 6ish)
-- The blockchain developer
-- mastering machine learning 
-- Thermos H20(water)
-- -=/+_ Character EQ
-- +-/+_  Additional Underscored
-
-
-
-## META CONFIGS
-
-+ Universal ( DATABASE )   -> established technology
-
-  Fresh Constant DATA from sensors
-  
-+ Equational ( THEORY )    -> proof of time
-  
-+ Computation ( PRACTICE ) -> proof of work
 
 ### work-balance-life
 
@@ -81,7 +64,8 @@ Benefitting others overall.
 
 This project is hosted on GitHub at github.com/cody-p2p. 
 
-I invite you to explore the repository, contribute to the development, and stay up-to-date with the latest updates.
+I invite you to explore the repository, contribute to the 
+development, and stay up-to-date with the latest updates.
 If your negative you wont get much response generally.
 
 - Pre stage development
@@ -90,16 +74,19 @@ If your negative you wont get much response generally.
 - Chat support for real time communications
 
 <br>
+<hr>
+<br>
 
 ## Notes about the code you see
 
-Mostly all the code comes from groq.com/
+Mostly all the code comes from groq.com/my_custom_inputs
 
 I used it to find the answers to the questions I have about programming
 so please take that into account. If you would like to use any of the code
 source show on my profile please feel free to grab what you like.
 
-## CC-CS-CA-CBRE 
-2025 copyright Cody-p2p
+## CC-CS-CA
+
+2025 copyright (@Cody-p2p)[github.com/cody-p2p]
 
 > Thanks for your time.
