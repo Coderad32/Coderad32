@@ -1,11 +1,11 @@
-## Written Authorship and Source Code Ownership
-### Last Update: Wed Nov 20 20:32:41 MST 2024
+## Written Authorship and Source Code Ownership 👍
+### Last Update: Wed Nov 20 20:32:41 MST 2024 🙌❤️
 
 I would like to dedicate these works to the people who make it possible. 
 
 Your contributions, feedback, and encouragement have been invaluable in shaping this project. 
 
-Also to note: I work alone but would love to work with other people so I could have some feedback suggestions or general comments.
+> Also to note: I work alone but would love to work with other people so I could have some feedback suggestions or general comments.
 
 - Each project I would like to compelete and spend some more time to develope.
 
@@ -47,11 +47,9 @@ over time and adding value to a compounding interest.
 - Relationships Networking ... Continued Support For Networking Relationships(inter+node)
 
 
-### work-balance-life
+### work-balance-life ⚖️
 
-I am a self taught developer so if there is something I dont know
-or need to learn I will do so if need be cutting out the waste
-not being fake and not being mean to others.
+I work online in development,
 
 Fear is a driving force when you dont have a job/employment
 I wanted to start a company that sponsors people to be their 
@@ -77,7 +75,7 @@ If your negative you wont get much response generally.
 <hr>
 <br>
 
-## Notes about the code you see
+## Notes about the code you see 👌
 
 Mostly all the code comes from groq.com/my_custom_inputs
 
@@ -89,4 +87,4 @@ source show on my profile please feel free to grab what you like.
 
 2025 copyright (@Cody-p2p)[github.com/cody-p2p]
 
-> Thanks for your time.
+> Thanks for your time. 😊
