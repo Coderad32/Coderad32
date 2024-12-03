@@ -1,5 +1,5 @@
 ## Written Authorship and Source Code Ownership 👍
-### Last Update: Wed Nov 20 20:32:41 MST 2024 🙌❤️
+### Last Update: Tue Dec  3 15:43:38 MST 2024 🙌❤️
 
 I would like to dedicate these works to the people who make it possible. 
 
