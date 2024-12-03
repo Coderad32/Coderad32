@@ -9,7 +9,7 @@ Your contributions, feedback, and encouragement have been invaluable in shaping 
 
 - Each project I would like to compelete and spend some more time to develope.
 
-## Welcome and Acknowledgments
+## Welcome and Acknowledgments 👍👌
 
 Thanks for taking the time to read about the project for more information please use our online
 link below in resources.
@@ -17,7 +17,7 @@ link below in resources.
 I would like to extend my gratitude to my sponsors and career manager for their continued support. 
 Without their help, this project would not be possible. 
 
-## Moving Onwards From Coding
+## Moving Onwards From Coding 🧑‍💻
 
 Today I change what I am doing.
 Learning to code is still on my mind.
@@ -27,7 +27,7 @@ Remember what I need to rememeber, and what I dont need too.
 Its easy to find the information and make a sample about it
 as a reference to the DATA.
 
-## Moving Forwards In Life
+## Moving Forwards In Life ❤️🙌
 
 Fear is nothing to let your life be determined by.
 So with that being said what is hindering me at the moment ?
@@ -58,7 +58,7 @@ inspiration manifest the power of the mind.
 
 Benefitting others overall.
 
-## Project Information
+## Project Information 😍
 
 This project is hosted on GitHub at github.com/cody-p2p. 
 
