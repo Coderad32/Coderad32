@@ -1,4 +1,4 @@
-# Welcome / Introduction  
+# Welcome / Intro
 
 > Thank you for taking the time to join and welcome to the project workspace.  
 
