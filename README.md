@@ -54,7 +54,7 @@ This holistic approach ensures contributors have the tools and environment neede
 
 ## Conclusion  
 
-Thank you for exploring the **Foundation Project Workspace**. We value your interest and look forward to your contributions.  
+Thank you for exploring the **My profile**. We value your interest and look forward to your contributions.  
 
 If you wish to fork or build upon this project, we encourage you to:  
 1. Take your time to understand the core values and goals.  
