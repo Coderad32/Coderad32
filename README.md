@@ -200,7 +200,7 @@ By interacting with my repositories, you agree to the following:
 
 ## 🌐 Connect with Me 🍊
 
-Only if your intrested should you follow me && my work in software development.
+ If your intrested you could follow me && my work in software development and my focus here. Stay tuned!
 
 ---
 
