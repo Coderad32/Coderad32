@@ -46,8 +46,10 @@ Speaking of innovation, I would also like to create a water-powered generator to
 brand and persona and take my security 
 online seriously and persue the rules.
 
-## Blockchain Development
-
+## Blockchain Development and Jobs Act
+ 
+ H.R.6572 - Deploying American Blockchains Act of 2023 
+ 
 I am exploring blockchain technology and its applications in various fields. 
 
 My focus includes:
