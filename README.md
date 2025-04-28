@@ -5,7 +5,8 @@
 - Support is driven by contributions from people like you.  
 - **AVAILABLE**: Status uplink systems are active.  
 - **Networking from Home**: Enabling collaboration and connectivity remotely.  
-## Contribute  
+
+## Collaborate 
 
 The **Foundation** is a collaborative software community dedicated to achieving innovative **data/application** results. Contributions are welcome from all with good intentions.  
 
@@ -54,12 +55,15 @@ This holistic approach ensures contributors have the tools and environment neede
 
 ## Conclusion  
 
-Thank you for exploring  **My profile**. We value your interest and look forward to your contributions.  
+Thank you for exploring  **My profile**. I value your interest and look forward to your contributions.  
 
-If you wish to fork or build upon this project, we encourage you to:  
+If you wish to fork or build upon this project, I encourage you to:  
 1. Take your time to understand the core values and goals.  
 2. Give credit to original contributors where it’s due.  
 
 Together, we can create a thriving and impactful community.  
 
-> **2025 Reserved – Cody James**  
+
+Thanks for your time today
+
+> **2025 Reserved – github.com/@Coderad32 **  
