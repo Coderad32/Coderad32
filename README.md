@@ -4,6 +4,11 @@
 
 ## About Myself ... 🚀 April 27, 2025
 
+I learned by myself how to build design and test software while developing myself through fitness and better habits
+I am a DIYer I love building new projects and learning the skills to get it done I like going for hikes
+and going to the lake to go fishing and I enjoy photography artwork and building for the web.
+
+
 ## Security Information
 
 - I don't use email.
