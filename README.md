@@ -36,12 +36,6 @@ I also would like to do research and start a foundation. This foundation would b
 
 Speaking of innovation, I would also like to create a water-powered generator to charge batteries for my lights and other power requirements.
 
-## 🔒 Security Tokens
-
-- **API Tokens**: Any API tokens or keys used in my projects are stored securely and are not shared publicly. If you find a token exposed, please report it immediately.
-
-- **Authentication**: I use secure authentication methods for all my projects to ensure data integrity and user privacy.
-
 - **Digital Identity**: I protect my online 
 brand and persona and take my security 
 online seriously and persue the rules.
@@ -135,50 +129,6 @@ By interacting with my repositories, you agree to the following:
 
 3. **Let Me Know Send Message**: Send me some information about what your doing.
 
-
-## 🤝 How to Share
-
-1. **Fork the Repository**: 
-
-   - Click the "Fork" button at the top-right corner of this repository to create your own copy.
-
-2. **Clone the Repository**:
-
-   - Clone your forked repository to your local machine using the following command:
-
-     ```bash
-
-     git clone https://github.com/yourusername/repository-name.git
-
-     ```
-
-3. **Make Changes**:
-   - Create a new branch for your changes:
-
-     ```bash
-
-     git checkout -b feature/your-feature-name
-
-     ```
-   - Make your changes and commit them with clear commit messages:
-
-     ```bash
-
-     git commit -m "Add feature: your-feature-name"
-
-     ```
-
-4. **Push Changes**:
-   - Push your changes to your forked repository:
-
-     ```bash
-
-     git push origin feature/your-feature-name
-
-     ```
-
-5. **Submit a Pull Request**:
-   - Open a pull request to the main repository and describe your changes in detail.
 
 ## 📝 How to Provide Feedback
 
