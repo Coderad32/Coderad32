@@ -1,13 +1,24 @@
 # 👋 Hi, I am Cody Bunnell  ( C.J. )
 
-@Coderad32 is my profile handle. If you wish to connect with me, follow along and submit a pull request to the repo of your choosing.
+@Coderad32 is my profile - If you wish to connect with me, follow along and submit a pull request to the repo of your choosing.
+
+## Volunteering :|: The Mars Preserve Research Foundation
+
+I will be collaborating with The Mars Preserve a Startup Research and Development Foundation I am Starting here-in.
+I would like to give back to the community that arrives out of this repo. With that being stated goodness is a driving factor
+In the decision process making role/creator at "TMP-RF"
+
 
 ## About Myself ... 🚀 April 27, 2025
 
 I learned by myself how to build design and test software while developing myself through fitness and better habits
 I am a DIYer I love building new projects and learning the skills to get it done I like going for hikes
-and going to the lake to go fishing and I enjoy photography artwork and building for the web.
+and going to the lake to go fishing and I enjoy photography artwork and building for the web 3.0.
 
+I like job security and adventure having a job role outdoors building and crafting what I am intrested in.
+For more information about myself please find me on X.com/coderad32 for live updates and random chitterchatter.
+
+View X.com/coderad32 at your own risk.
 
 ## Security Information
 
