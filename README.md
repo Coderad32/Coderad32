@@ -178,3 +178,24 @@ If you found this repository helpful, consider giving it a ⭐ to show your supp
 ---
 
 **Made with ❤️ by [Coderad32](https://github.com/Coderad32)**
+
+## Site Map
+
+- [👋 About Me](#-hi-i-am-cody-bunnell--cj-)
+- [🌟 Volunteering](#volunteering--the-mars-preserve-research-foundation)
+- [🚀 About Myself](#about-myself--april-27-2025)
+- [🛠️ Skills](#️-skills)
+- [🌳 Future Growth](#-future-growth-)
+- [🔗 Blockchain Development](#blockchain-development-and-jobs-act)
+- [💰 Digital Assets](#digital-assets)
+- [📊 Taxes for Crypto Projects](#taxes-for-crypto-projects)
+- [🏗️ Startup Foundation](#startup-foundation-research-development)
+- [📜 Terms of Service](#-terms-of-service)
+- [🔐 Privacy Policy](#-privacy-policy)
+- [🤝 Team and Collaboration](#-team-and-collaboration)
+  - [Team Guidelines](#team-guidelines)
+  - [How to Collaborate](#how-to-collaborate)
+- [📝 How to Provide Feedback](#-how-to-provide-feedback)
+- [🌟 Guidelines for Feedback](#-guidelines-for-feedback)
+- [🌐 Connect with Me](#-connect-with-me-)
+- [📢 Thank You for Visiting](#-thank-you-for-visiting)
