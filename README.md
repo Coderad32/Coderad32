@@ -9,7 +9,7 @@ I would like to give back to the community that arrives out of this repo. With t
 In the decision process making role/creator at "TMP-RF"
 
 
-## About Myself ... 🚀 April 27, 2025
+## About Myself ... 🚀 Thu May  8 08:37:07 PDT 2025
 
 I learned by myself how to build design and test software while developing myself through fitness and better habits
 I am a DIYer I love building new projects and learning the skills to get it done I like going for hikes
@@ -24,9 +24,11 @@ View X.com/coderad32 at your own risk.
 
 - I don't use email.
 - I don't read PDFs.
-- I don't write software anymore.
+- Breaking the Habit.
 
-I plan on scrubbing some data about myself off the internet; Removing old projects that no longer interest me, and gaining credit for what I do here on GitHub as a digital entrepreneur.
+I plan on scrubbing some data about myself off the internet; Removing old projects that no longer interest me, and gaining credit for what I do here on GitHub as a digital entrepreneur. 
+
+I am creating a safer cleaner persona online.
 
 ## 🛠️ Skills
 
