@@ -20,7 +20,7 @@ For more information about myself please find me on X.com/coderad32 for live upd
 
 View X.com/coderad32 at your own risk.
 
-## Security Information
+## Security Information 🛡️
 
 - I don't use email.
 - I don't read PDFs.
@@ -30,7 +30,7 @@ I plan on scrubbing some data about myself off the internet; Removing old projec
 
 I am creating a safer cleaner persona online.
 
-## 🛠️ Skills
+##  Skills 🛠️
 
 I have learned a little about a lot of different languages, including:
 - **JavaScript** for functionality
@@ -53,7 +53,7 @@ Speaking of innovation, I would also like to create a water-powered generator to
 brand and persona and take my security 
 online seriously and persue the rules.
 
-## Blockchain Development and Jobs Act
+## Blockchain Development and Jobs Act 🇺🇸
  
  H.R.6572 - Deploying American Blockchains Act of 2023 
  
