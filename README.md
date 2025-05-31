@@ -2,14 +2,14 @@
 
 @Coderad32 is my profile - If you wish to connect with me, follow along and submit a pull request to the repo of your choosing.
 
-## Volunteering :|: The Mars Preserve Research Foundation
+## Volunteering :|: The Mars Preserve Research 
 
 I will be collaborating with The Mars Preserve a Startup Research and Development Foundation I am Starting here-in.
 I would like to give back to the community that arrives out of this repo. With that being stated goodness is a driving factor
 In the decision process making role/creator at "TMP-RF"
 
 
-## About Myself ... 🚀 Wed May 28 10:18:00 PDT 2025
+## About Myself ... 🚀 
 
 I learned by myself how to build design and test software while developing myself through fitness and better habits
 I am a DIYer I love building new projects and learning the skills to get it done I like going for hikes
