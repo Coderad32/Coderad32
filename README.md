@@ -1,4 +1,4 @@
-# Hi, I am Cody Bunnell  ( C.J. ) 🍊
+# Hi, I am Cody ( C.J. ) 🍊
 
 @Coderad32 is my profile - If you wish to connect with me, follow along and submit a pull request to the repo of your choosing.
 
