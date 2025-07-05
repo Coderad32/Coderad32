@@ -11,12 +11,22 @@ In the decision process making role/creator at "TMP-RF"
 
 ## About Myself ... 🚀 
 
-I learned by myself how to build design and test software while developing myself through fitness and better habits
-I am a DIYer I love building new projects and learning the skills to get it done I like going for hikes
-and going to the lake to go fishing and I enjoy photography artwork and building for the web 3.0.
+Profile for development
 
-I like job security and adventure having a job role outdoors building and crafting what I am intrested in.
-For more information about myself please find me on X.com/coderad32 for live updates and random chitterchatter.
+I enjoy the outdoors going on adventures
+working on my own projects /workspace and getting stuff done
+
+I'm into nature animals and building a quality future
+while minimizing the quantity of the artwork blockchain.
+
+As far as my development goes online I am working on learning new tools
+and implementing them for later use refining my local documentation.
+
+Sports are fun fishing golfing and hunting(tracking)
+job seeking individual
+
+cryptographic workers union 2025-2026
+
 
 View X.com/coderad32 at your own risk.
 
