@@ -2,6 +2,8 @@
 
 @Coderad32 is my profile - If you wish to connect with me, follow along and submit a pull request to the repo of your choosing.
 
+- For ERRORS or BUGS let me know if possible.
+
 ## Mars Preserve Research
 
 I will be collaborating with The Mars Preserve a Startup Research and Development Foundation I am Starting here-in.
