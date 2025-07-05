@@ -2,7 +2,7 @@
 
 @Coderad32 is my profile - If you wish to connect with me, follow along and submit a pull request to the repo of your choosing.
 
-## Volunteering :|: The Mars Preserve Research 
+## Mars Preserve Research
 
 I will be collaborating with The Mars Preserve a Startup Research and Development Foundation I am Starting here-in.
 I would like to give back to the community that arrives out of this repo. With that being stated goodness is a driving factor
