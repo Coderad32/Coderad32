@@ -21,7 +21,7 @@ For more information about myself please find me on X.com/coderad32 for live upd
 View X.com/coderad32 at your own risk.
 
 
-## Blockchain Technology Technology
+## Blockchain Technology
 
 Blockchain Technology technology is a decentralized digital ledger that records transactions across a network of computers in a secure, transparent, and tamper-resistant way. Each record, or "block," contains a list of transactions and is linked to the previous block, forming a chronological "chain." This structure ensures that once data is recorded, it cannot be altered without consensus from the network, providing high levels of security and trust. Blockchain Technology is the foundational technology behind cryptocurrencies like Bitcoin and Ethereum, but its applications extend to supply chain management, digital identity, voting systems, and more. By eliminating the need for central authorities, Blockchain Technology enables peer-to-peer interactions and opens up new possibilities for Blockchain Technology development.
 
