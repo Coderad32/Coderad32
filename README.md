@@ -1,4 +1,6 @@
-# Hi, I am Cody ( C.J. ) 🍊
+# Hi, I am Cody ( C.J. ) 🍊 
+
+Donate: 0x0fC28BdfD04D7c70a9De8F55d97a782C0E7163f3 (Meta Mask)
 
 @Coderad32 is my profile - If you wish to connect with me, follow along and submit a pull request to the repo of your choosing.
 
