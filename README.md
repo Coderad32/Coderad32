@@ -80,6 +80,36 @@ contract SimpleToken {
     }
 }
 ```
+
+
+# Remix IDE
+
+Remix IDE is a powerful web-based portal for developing, deploying, and managing crypto smart contracts. It provides an intuitive interface for writing Solidity code, testing, and deploying contracts directly to the blockchain.
+
+## Features
+
+- Web portal for smart contract development
+- Setup and minting functionality
+- Integrated tools for compiling, testing, and deploying contracts
+- Supports multiple blockchain networks
+
+## Getting Started
+
+1. Open the Remix IDE in your browser.
+2. Create or import your smart contract.
+3. Use the setup and mint features to deploy and interact with your contract.
+
+## Resources
+
+- [Remix IDE Documentation](https://remix-ide.readthedocs.io/)
+- [Solidity Documentation](https://docs.soliditylang.org/)
+
+## License
+
+This project is open source and available under the MIT License.
+
+
+
 ## Etherium Blockchain Explorer
 
 An Ethereum Blockchain explorer is a web-based tool that allows users to view and search the contents of the Ethereum Blockchain. It provides detailed information about blocks, transactions, wallet addresses, smart contracts, and token transfers. Explorers make it easy to track the status of transactions, monitor network activity, and verify contract interactions.
