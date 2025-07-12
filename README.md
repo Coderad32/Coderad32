@@ -8,12 +8,12 @@ find follow share /submit a pull request to the repo/ of your choosing.
 
 ## Places I Frequent
 
-- X           -> @Coderad32
-- Github      -> @Coderad32
-- LinkedIn    -> @Coderad32
-- Google      -> @Coderad32
-- Pastebin    -> @Coderad32
-- Ubuntu      -> @Coderad32
+- X           → [@Coderad32](https://x.com/Coderad32)
+- GitHub      → [@Coderad32](https://github.com/Coderad32)
+- LinkedIn    → [@Coderad32](https://www.linkedin.com/in/Coderad32)
+- Google      → [@Coderad32](https://profiles.google.com/Coderad32)
+- Pastebin    → [@Coderad32](https://pastebin.com/u/Coderad32)
+- Ubuntu      → [@Coderad32](https://ubuntu.com/search?q=Coderad32)
 
 
 
