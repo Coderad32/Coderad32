@@ -1,38 +1,43 @@
 # Hi, I am Cody ( C.J. ) 🍊 
 
-Token Donate: 0x0fC28BdfD04D7c70a9De8F55d97a782C0E7163f3 (Meta Mask)
 
-@Coderad32 is my profile - If you wish to connect with me, follow along and submit a pull request to the repo of your choosing.
+@Coderad32 is my online profile
 
-- For ERRORS or BUGS let me know if possible.
+If you wish to connect with me, 
+find follow share /submit a pull request to the repo/ of your choosing.
+
+## Places I Frequent
+
+- X           -> @Coderad32
+- Github      -> @Coderad32
+- LinkedIn    -> @Coderad32
+- Google      -> @Coderad32
+- Pastebin    -> @Coderad32
+- Ubuntu      -> @Coderad32
+
+
 
 ## Mars Preserve Research
 
-I will be collaborating with The Mars Preserve a Startup Research and Development Foundation I am Starting here-in.
-I would like to give back to the community that arrives out of this repo. With that being stated goodness is a driving factor
-In the decision process making role/creator at "TMP-RF"
+Is a project I started on github if you would like to find out more information about the project please visit: [github.com/marspreserve](MarsPreserve) A voluenteering position farming and building grow boxes.
+A new startup and orginization for farming developing and researching.
 
 
 ## About Myself ... 🚀 
 
-Profile for development
+Passionate about development, I thrive on exploring the outdoors, embarking on new adventures, and tackling hands-on projects. I value nature, animals, and strive to contribute to a sustainable, high-quality future—while being mindful of the impact of technology like blockchain.
 
-I enjoy the outdoors going on adventures
-working on my own projects /workspace and getting stuff done
-
-I'm into nature animals and building a quality future
-while minimizing the quantity of the artwork blockchain.
-
-As far as my development goes online I am working on learning new tools
-and implementing them for later use refining my local documentation.
-
-Sports are fun fishing golfing and hunting(tracking)
-job seeking individual
-
-cryptographic workers union 2025-2026
+My focus is on continuous learning, adopting new tools, and refining my workflow and documentation for future projects. I enjoy sports such as fishing, golfing, and tracking, and am always open to new opportunities in the tech field.
 
 
-View X.com/coderad32 at your own risk.
+## Token 
+Donate: **0x0fC28BdfD04D7c70a9De8F55d97a782C0E7163f3**
+
+View [X.com/coderad32](X) at your own risk.
+
+- For ERRORS or BUGS let me know if possible.
+
+#### cryptographic workers union 2025-2026
 
 
 ## Blockchain
