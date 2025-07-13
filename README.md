@@ -6,7 +6,7 @@
 If you wish to connect with me, 
 find follow share /submit a pull request to the repo/ of your choosing.
 
-## Places I Frequent
+## Places I Goto
 
 - X           → [@Coderad32](https://x.com/Coderad32)
 - GitHub      → [@Coderad32](https://github.com/Coderad32)
@@ -19,13 +19,6 @@ find follow share /submit a pull request to the repo/ of your choosing.
 
 Is a project I started on github if you would like to find out more information about the project please visit: [github.com/marspreserve](MarsPreserve) A voluenteering position farming and building grow boxes.
 A new startup and orginization for farming developing and researching.
-
-
-## About Myself ... 🚀 
-
-Passionate about development, I thrive on exploring the outdoors, embarking on new adventures, and tackling hands-on projects. I value nature, animals, and strive to contribute to a sustainable, high-quality future—while being mindful of the impact of technology like blockchain.
-
-My focus is on continuous learning, adopting new tools, and refining my workflow and documentation for future projects. I enjoy sports such as fishing, golfing, and tracking, and am always open to new opportunities in the tech field.
 
 
 ## Token 
