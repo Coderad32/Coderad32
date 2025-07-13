@@ -50,15 +50,15 @@ A token contract is a type of smart contract that creates and manages digital to
 
 ### Example ERC-20 Token Contract (Solidity)
 
-```solidity
+```
 // Simple ERC-20 Token Example
 pragma solidity ^0.8.0;
 
 contract SimpleToken {
-    string public name = "Research Token";
-    string public symbol = "RToken";
+    string public name = "Mars Preserve";
+    string public symbol = "Preserve";
     uint8 public decimals = 18;
-    uint256 public totalSupply = 10000001000000 * (10 ** uint256(decimals));
+    uint256 public totalSupply = 100000001 * (10 ** uint256(decimals));
     mapping(address => uint256) public balanceOf;
 
     event Transfer(address indexed from, address indexed to, uint256 value);
