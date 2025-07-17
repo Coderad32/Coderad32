@@ -17,7 +17,7 @@ find follow share /submit a pull request to the repo/ of your choosing.
 
 ## Mars Preserve Research
 
-Is a project I started on github if you would like to find out more information about the project please visit: [github.com/marspreserve](MarsPreserve) A voluenteering position farming and building grow boxes.
+Is a project I started on github if you would like to find out more information about the project please visit: [github.com/marspreserve] A voluenteering position farming and building grow boxes.
 A new startup and orginization for farming developing and researching.
 
 
