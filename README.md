@@ -1,4 +1,4 @@
-# Hi, I am Cody ( C.J. ) 🍊 
+# Hi, I am Cody Bunnell 🍊 
 
 
 @Coderad32 is my online profile
