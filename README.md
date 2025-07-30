@@ -12,6 +12,7 @@ find follow share /submit a pull request to the repo/ of your choosing.
 - GitHub      → [@Coderad32](https://github.com/Coderad32)
 - youtube     → [@Coderad32](https://www.youtube.com/in/Coderad32)
 - linkedin    -> [@coderad32](https://www.linkedin.com/in/coderad32/)
+- google      -> [@coderad32](https://www.g.dev/coderad32)
 
 
 ## Mars Preserve Research
