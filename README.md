@@ -120,7 +120,10 @@ contract StableCoin is ERC20, Ownable {
 }
 
 ```
+## Deploy The Contract
 
+Fix any runtime errors and compiler checks to deploy the smart contract.
+Remix IDE online.
 
 # Remix IDE
 
