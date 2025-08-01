@@ -20,10 +20,6 @@ find follow share /submit a pull request to the repo/ of your choosing.
 Is a project I started on github if you would like to find out more information about the project please visit: [github.com/marspreserve] A voluenteering position farming and building grow boxes.
 A new startup and orginization for farming developing and researching.
 
-
-## Token 
-Donate: **0x0fC28BdfD04D7c70a9De8F55d97a782C0E7163f3**
-
 View [X.com/coderad32](X) at your own risk.
 
 - For ERRORS or BUGS let me know if possible.
