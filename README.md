@@ -6,6 +6,9 @@
 If you wish to connect with me, 
 find follow share /submit a pull request to the repo/ of your choosing.
 
+If you need to get ahold of me find me on X.com/coderad32 and drop a message
+and ill see it.
+
 ## Places I Goto
 
 - X           → [@Coderad32](https://x.com/Coderad32)
@@ -15,10 +18,22 @@ find follow share /submit a pull request to the repo/ of your choosing.
 - google      -> [@coderad32](https://www.g.dev/coderad32)
 
 
-## Mars Preserve Research
+## Mars Preserve Research Project Workspace
 
-Is a project I started on github if you would like to find out more information about the project please visit: [github.com/marspreserve] A voluenteering position farming and building grow boxes.
+Is a project I started on github if you would like to find out more information about the project please visit: [github.com/marspreserve] A voluenteering position farming and building grow boxes. 
+
+Solar Pads is a portable charging system for EVs plugin play out of the box.
+
 A new startup and orginization for farming developing and researching.
+Topics and areas of intrest
+
+- Real Time Human Support
+- Information Technology
+- Farming Accessability
+- Growing Effeciency
+- Secure Climate Controlled Containers
+
+
 
 View [X.com/coderad32](X) at your own risk.
 
