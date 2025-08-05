@@ -29,7 +29,8 @@ Topics and areas of intrest
 
 - Real Time Human Support
 - Information Technology
-- Farming Accessability
+- Farming accessibility
+
 - Growing Effeciency
 - Secure Climate Controlled Containers
 
