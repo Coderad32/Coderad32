@@ -1,13 +1,16 @@
 # Hi, I am Cody Bunnell 🍊 
 
-
-@Coderad32 is my online profile
+@Coderad32 is my online profile I hope I can teach you something you may not know in the stories and posts I share.
 
 If you wish to connect with me, 
 find follow share /submit a pull request to the repo/ of your choosing.
 
 If you need to get ahold of me find me on X.com/coderad32 and drop a message
 and ill see it.
+
+View [X.com/coderad32](X) at your own risk.
+
+- For ERRORS or BUGS let me know if possible.
 
 ## Places I Goto
 
@@ -20,12 +23,13 @@ and ill see it.
 
 ## Mars Preserve Research Project Workspace
 
-Is a project I started on github if you would like to find out more information about the project please visit: [github.com/marspreserve] A voluenteering position farming and building grow boxes. 
-
-Solar Pads is a portable charging system for EVs plugin play out of the box.
+Is a project I started on github if you would like to find out more information about the project.
+Please visit: [github.com/marspreserve] A voluenteering position farming and building grow boxes. 
 
 A new startup and orginization for farming developing and researching.
-Topics and areas of intrest
+Follow along for updates and other information.
+
+## Topics and areas of intrest
 
 - Real Time Human Support
 - Information Technology
@@ -33,15 +37,6 @@ Topics and areas of intrest
 
 - Growing Effeciency
 - Secure Climate Controlled Containers
-
-
-
-View [X.com/coderad32](X) at your own risk.
-
-- For ERRORS or BUGS let me know if possible.
-
-#### cryptographic workers union 2025-2026
-
 
 ## Blockchain
 
@@ -58,11 +53,14 @@ A smart contract is a self-executing program stored on the Blockchain that autom
 
 ## Simple Token Contract
 
-A token contract is a type of smart contract that creates and manages digital tokens on a Blockchain. These tokens can represent assets, currency, or utility within a platform.
+A token contract is a type of smart contract that creates and manages digital tokens on a Blockchain. 
+These tokens can represent assets, currency, or utility within a platform. Backed by the project as a real world asset. 
+in this project the containers are why the cost is so much and to build what is required to farm and grow everything
+the project needs.
 
 ### Example ERC-20 Token Contract (Solidity)
 
-## Stable Coins ERC Template 
+## Mars Preserve Token ERC Template 
 
 ```
 // SPDX-License-Identifier: MIT
@@ -132,7 +130,8 @@ contract StableCoin is ERC20, Ownable {
 }
 
 ```
-## Deploy The Contract
+## Deploy The Contract 
+## Connect Meta Mask Wallet
 
 Fix any runtime errors and compiler checks to deploy the smart contract.
 Remix IDE online.
@@ -153,8 +152,10 @@ Remix IDE is a powerful web-based portal for developing, deploying, and managing
 1. Open the Remix IDE in your browser.
 2. Create or import your smart contract.
 3. Use the setup and mint features to deploy and interact with your contract.
+4. See The results.
+5. Go beyond the everyday.
 
-## Resources
+## Resources More Links
 
 - [Remix IDE Documentation](https://remix-ide.readthedocs.io/)
 - [Solidity Documentation](https://docs.soliditylang.org/)
@@ -163,9 +164,7 @@ Remix IDE is a powerful web-based portal for developing, deploying, and managing
 
 This project is open source and available under the MIT License.
 
-
-
-## Etherium Blockchain Explorer
+## Etherium Blockchain Explorer Check Your Transactions
 
 An Ethereum Blockchain explorer is a web-based tool that allows users to view and search the contents of the Ethereum Blockchain. It provides detailed information about blocks, transactions, wallet addresses, smart contracts, and token transfers. Explorers make it easy to track the status of transactions, monitor network activity, and verify contract interactions.
 
@@ -203,13 +202,3 @@ A Blockchain developer is a software engineer who specializes in designing, buil
 - Knowledge of cryptographic principles and security best practices.
 - Familiarity with decentralized application (dApp) frameworks.
 - Problem-solving and analytical thinking.
-
-## More Information About Blockchain
-
-Blockchain developers play a crucial role in advancing the adoption and innovation of Blockchain across various industries and sectors. Their expertise is essential for building secure, efficient, and scalable Blockchain solutions that meet the needs of businesses and users alike.
-
-## Summary Overview
-
-This document provides an overview of blockchain, including its core concepts, such as decentralization, security, and transparency. It explains tokenization and its impact on asset ownership and liquidity, introduces smart contracts and their role in automating agreements, and presents a sample ERC-20 token contract in Solidity. The document also covers Ethereum blockchain explorers, highlighting their importance for tracking transactions and smart contracts. Finally, it outlines the responsibilities and skills required for blockchain developers, emphasizing their role in advancing blockchain innovation across industries.
-
-
