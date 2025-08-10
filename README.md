@@ -29,7 +29,7 @@ Please visit: [github.com/marspreserve] A voluenteering position farming and bui
 A new startup and orginization for farming developing and researching.
 Follow along for updates and other information.
 
-## Topics and areas of intrest
+## Topics and areas of interest 
 
 - Real Time Human Support
 - Information Technology
