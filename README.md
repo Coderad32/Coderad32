@@ -16,9 +16,9 @@ View [X.com/coderad32](X) at your own risk.
 
 - X           → [@Coderad32](https://x.com/Coderad32)
 - GitHub      → [@Coderad32](https://github.com/Coderad32)
-- youtube     → [@Coderad32](https://www.youtube.com/in/Coderad32)
-- linkedin    -> [@coderad32](https://www.linkedin.com/in/coderad32/)
-- google      -> [@coderad32](https://www.g.dev/coderad32)
+- Youtube     → [@Coderad32](https://www.youtube.com/in/Coderad32)
+- Linkedin    -> [@coderad32](https://www.linkedin.com/in/coderad32/)
+- Google      -> [@coderad32](https://www.g.dev/coderad32)
 
 
 ## Mars Preserve Research Project Workspace
@@ -27,7 +27,7 @@ Is a project I started on github if you would like to find out more information 
 Please visit: [github.com/marspreserve] A voluenteering position farming and building grow boxes. 
 
 A new startup and orginization for farming developing and researching.
-Follow along for updates and other information.
+Follow along for updates and other information. 
 
 ## 🌱 Farming Meets Blockchain
 Mars Preserve might be creating physical farming spaces—possibly vertical farms, hydroponic systems, or regenerative plots—while linking them to digital representations on the blockchain.
