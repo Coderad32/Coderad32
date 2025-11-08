@@ -1,4 +1,4 @@
-# Hi, I am Cody Bunnell 🍊 
+# HI🍊 
 
 @Coderad32 is my online profile I hope I can teach you something you may not know in the stories and posts I share.
 
