@@ -21,19 +21,6 @@ View [X.com/coderad32](X) at your own risk.
 - Google      -> [@coderad32](https://www.g.dev/coderad32)
 
 ---
-
-## Mars Preserve Research Project Workspace
-
-Is a project I started on github if you would like to find out more information about the project.
-
-Please visit: [github.com/marspreserve] 
-
-A position building the company foundation and what the company needs for operations such as software service support help
-or hosting and domain names covering each project. ( Software Developer UIX )
-
-A new startup and orginization for farming, software, developing, /researching.
-
-Follow along for updates and other information. 
-
+<br>
 
 
