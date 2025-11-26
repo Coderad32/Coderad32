@@ -25,7 +25,35 @@ View [X.com/coderad32](X) at your own risk.
 
 
 
+# Welcome
 
+Thanks for checking out the project. This workspace collects several small projects and research efforts related to farming technology, secure protocols, and EV infrastructure.
+
+## About The Workspace
+
+This repository aggregates a set of projects maintained by the same developer or team. Each project has a short description and a link to its GitHub repository. Use the links below to explore individual project READMEs for installation and contribution details.
+
+## Mars Preserve
+
+Mars Preserve is a smaller co-op focused on farming and developing software tools for agriculture and farm management. The project explores automation, data-driven crop planning, and tools to support cooperative farms.
+
+Repository: https://github.com/Coderad32/Perserve
+
+## XTTPS / XSSL
+
+XTTPS and XSSL are custom protocol and certificate-validation projects. They explore alternatives for secure communication and certificate handling, research into protocol design, and experimental implementations intended for testing and learning.
+
+Repository: https://github.com/Coderad32/XTTPS
+
+## Solar Pads
+
+Solar Pads are solar charging units for electric vehicles (EVs), turning them into SPEVs (Solar-Powered Electric Vehicles). The project covers hardware integration, charging control logic, and software for monitoring and scheduling charging sessions.
+
+Repository: https://github.com/Coderad32/SolarPads
+
+## DevOps - Mars Preserve
+
+A small DevOps Team focusing on the Mars Prserve farming project and brand image.
 
 
 
