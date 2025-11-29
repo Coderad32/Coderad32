@@ -73,6 +73,8 @@ Repository: https://github.com/Coderad32/Slots
 
 The one and only game studio build with blockchain in mind.
 
+Repository: https://github.com/Coderad32/BlockchainGameStudios
+
 ### Blockchain Technology Stack
 
 Smart Contracts: Solidity contracts for asset tokenization, provenance, and secure transactions
