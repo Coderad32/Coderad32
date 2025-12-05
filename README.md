@@ -1,32 +1,42 @@
-# HI🍊 TOP CODE here.
+# HI There! 
 
-@Coderad32 is my online profile I hope I can teach you something you may not know in the stories and posts I share.
+## Goto: workspace: Github /@Coderad32 #Remote #Jobs
 
-If you wish to connect with me, 
-find follow share /submit a pull request to the repo/ of your choosing.
+Software Design: Scratch Development [META]
+    Development: Post Labs[DATA]
+     Authorship: Cody Bunnell ( MIT Open Source 2025 )
 
-If you need to get ahold of me find me on X.com/coderad32 and drop a message
-and ill see it.
+A personal project I work on in my free time, where I can develop
+new methods && skills crafting software to meet my needs.
+
+With That being said: Id like to spend more time working on these
+projects I have created as an artist or developer, developing 
+crafting software. Open Source Software. 2026
 
 View [X.com/coderad32](X) at your own risk.
 
-- For ERRORS or BUGS let me know if possible.
 
 ## Places I Goto
 
 - X            → [@Coderad32](https://x.com/Coderad32)
+- Google       → [@coderad32](https://www.g.dev/coderad32)
 - GitHub       → [@Coderad32](https://github.com/Coderad32)
 - Youtube      → [@Coderad32](https://www.youtube.com/in/Coderad32)
-- Linkedin    -> [@coderad32](https://www.linkedin.com/in/coderad32/)
-- Google      -> [@coderad32](https://www.g.dev/coderad32)
+- Linkedin     → [@coderad32](https://www.linkedin.com/in/coderad32/)
 
 ---
 <br>
 
+## Why 
+
+I'd like an opportunity to work on projects I have developed
+over time and space and with your support continue to craft
+the software that is located here-in. 
+
+
 # Welcome
 
-Thanks for checking out the project. This workspace collects several small projects and research efforts related to farming technology, secure protocols, and EV infrastructure.
-
+Thanks for checking out the project. This workspace collects several small projects and research efforts related to farming technology, secure protocols, and EV infrastructure power generation and wealth building.
 
 ## Mars Preserve Co-Op
 
@@ -67,8 +77,6 @@ Shipping containers are essential for transporting goods and donations across lo
 
 Repository: https://github.com/Coderad32/Slots
 
-
-
 ## Blockchain Game Studios (BGS)
 
 The one and only game studio build with blockchain in mind.
@@ -81,20 +89,11 @@ Smart Contracts: Solidity contracts for asset tokenization, provenance, and secu
 
 Integration: MetaMask, Hardhat, and Ethers.js for seamless DApp interaction
 
-### Features: 
-
--Tokenized crop assets and logistics tracking 
--Decentralized XTTPS XSSL certificate validation
--AEAD cryptographic primitives (ChaCha20‑Poly1305, AES‑GCM) for secure communication.
-
-Containerization: Dockerized blockchain nodes for reproducible environments and easy deployment.
-
-
 ## Connect / Contact me directly
 
 If you'd like to get in touch, the following links are maintained by the project founder and top developer:
 
-https://www.X.com/coderad32
-https://www.github.com/coderad32
+- https://www.X.com/coderad32
+- https://www.github.com/coderad32
 
 Follow + Share = Learn More ( Updates ) for more information can be found online and thanks for taking the time to check out my profile I hope we can work together on a project.
