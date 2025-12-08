@@ -80,7 +80,7 @@ A menu created in shell code to demonstrate a menu options.
 
 Repository: https://github.com/Coderad32/TheOpenSystem
 
-## Slots ( Access To Mobile Garden Options )
+## Slots ( Mobile Garden Options )
 
 Shipping containers are essential for transporting goods and donations across long distances, especially for humanitarian aid and disaster relief. Proper storage and management of these containers ensure that donations reach their destinations efficiently and safely.
 
