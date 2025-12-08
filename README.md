@@ -1,10 +1,13 @@
 # HI There! 
 
 ## Goto: workspace: Github /@Coderad32 #Remote #Jobs
+```
 
-Software Design: Scratch Development [META]
-    Development: Post Labs[DATA]
-     Authorship: Cody Bunnell ( MIT Open Source 2025 )
+Software Design: From Scratch Development [META]
+    Development: Post Labs Research [DATA]
+     Authorship: Top Code ( @Coderad32 ) Cody Bunnell
+
+```
 
 A personal project I work on in my free time, where I can develop
 new methods && skills crafting software to meet my needs.
@@ -17,24 +20,30 @@ View [X.com/coderad32](X) at your own risk.
 
 
 ## Places I Goto
-
+```
 - X            → [@Coderad32](https://x.com/Coderad32)
 - Google       → [@coderad32](https://www.g.dev/coderad32)
 - GitHub       → [@Coderad32](https://github.com/Coderad32)
 - Youtube      → [@Coderad32](https://www.youtube.com/in/Coderad32)
 - Linkedin     → [@coderad32](https://www.linkedin.com/in/coderad32/)
-
+```
 ---
 <br>
 
 ## Why 
 
-I'd like an opportunity to work on projects I have developed
-over time and space and with your support continue to craft
-the software that is located here-in. 
+I'd like an opportunity/chance to work on projects I have developed
+over time and space. With your support continue to craft the software that is located here-in.
+Without cCollaboration / Contribution / Support I want to be bold about what I do. 
 
+So ... without any further-ado [Mars Preserve Co-Op]{Source Code} at github.com/marspreserve
+a research and educational repository.
 
-# Welcome
+Thanks !! For any opportunity you could provide.
+
+**Micro Wins Everyday**
+
+## Welcome
 
 Thanks for checking out the project. This workspace collects several small projects and research efforts related to farming technology, secure protocols, and EV infrastructure power generation and wealth building.
 
@@ -83,12 +92,6 @@ The one and only game studio build with blockchain in mind.
 
 Repository: https://github.com/Coderad32/BlockchainGameStudios
 
-### Blockchain Technology Stack
-
-Smart Contracts: Solidity contracts for asset tokenization, provenance, and secure transactions
-
-Integration: MetaMask, Hardhat, and Ethers.js for seamless DApp interaction
-
 ## Connect / Contact me directly
 
 If you'd like to get in touch, the following links are maintained by the project founder and top developer:
@@ -102,3 +105,5 @@ Follow + Share = Learn More ( Updates ) for more information can be found online
 GitHub Sponsors allows individuals and organizations to financially support open source developers and projects directly on GitHub. You can sponsor contributors for the work they do, helping sustain and grow their projects.
 
 ---
+
+Made with care 👽 -- Top Code [@Coderad32]
