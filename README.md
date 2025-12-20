@@ -33,12 +33,13 @@ View [X.com/coderad32](X) at your own risk.
 
 I'd like an opportunity/chance to work on projects I have developed
 over time and space. With your support continue to craft the software that is located here-in.
-Without Collaboration / Contribution / Support I want to be bold about what I do. 
+
+With Collaboration / Contribution / Support I want to be bold about what I do on github with your kind support I know I will make good projects. 
 
 So ... without any further-ado [Mars Preserve Co-Op]{Source Code} at github.com/marspreserve
-a research and educational repository.
+a research | educational repository.
 
-Thanks !! For any opportunity you could provide.
+Thanks, For any opportunity you could provide.
 
 **Micro Wins Everyday**
 
