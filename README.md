@@ -101,6 +101,48 @@ If you'd like to get in touch, the following links are maintained by the project
 
 Follow + Share = Learn More ( Updates ) for more information can be found online and thanks for taking the time to check out my profile I hope we can work together on a project.
 
+### Self‑Taught Software Developer | Web Developer | Builder of Practical & Futuristic Ideas
+
+I’m a self‑taught developer based in the mountains of Colorado, where I work remotely and build software that blends creativity, practicality, and curiosity. I love exploring new tools, designing clean interfaces, and developing systems that solve real problems — from blockchain experiments to polished resume websites.
+
+---
+
+## 🚀 What I Do
+- **Web Development** — Responsive layouts, clean CSS, Bootstrap themes, and user‑focused design  
+- **Automation & Tooling** — Makefile setups, workflow optimization, and efficient build systems  
+- **Blockchain Experiments** — Smart contracts, proof‑of‑concept DApps, and encryption fundamentals  
+- **Creative Engineering** — Futuristic concepts like SolarPads, AVES, and modular UI systems  
+- **Professional Branding** — Resume templates, portfolio sites, and polished presentation  
+
+---
+
+## 🛠️ Skills & Technologies
+- **Languages:** HTML, CSS, JavaScript, Python, Solidity, C/C++  
+- **Frameworks & Tools:** Bootstrap, Hardhat, React, Git/GitHub  
+- **Specialties:**  
+  - Responsive web design  
+  - Automation toolchains  
+  - Smart contract development  
+  - UX‑focused layouts  
+  - Blockchain proof‑of‑concepts  
+  - Professional resume/portfolio design  
+
+---
+
+## 📌 Current Focus
+- Enhancing my GitHub with clean, well‑documented projects  
+- Building a professional resume website  
+- Developing advanced blockchain scripts and DApps  
+- Designing modular HTML/CSS layouts for future projects  
+- Growing *Mars Preserve*, my long‑term organic software vision  
+
+---
+
+## 🌄 A Bit About Me
+I’m a curious, self‑driven learner who enjoys the independence of remote work and the quiet of the mountains. I love building things — whether it’s a polished website, a futuristic concept, or a clever automation script. Every project is a chance to learn something new.
+
+---
+
 ## What is GitHub Sponsorship?
 GitHub Sponsors allows individuals and organizations to financially support open source developers and projects directly on GitHub. You can sponsor contributors for the work they do, helping sustain and grow their projects.
 
