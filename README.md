@@ -24,7 +24,7 @@ View [X.com/coderad32](X) at your own risk.
 - X            → [@Coderad32](https://x.com/Coderad32)
 - Google       → [@coderad32](https://www.g.dev/coderad32)
 - GitHub       → [@Coderad32](https://github.com/Coderad32)
-- Youtube      → [@Coderad32](https://www.youtube.com/in/Coderad32)
+- Youtube      → [@Coderad32](https://www.youtube.com/Coderad32)
 ```
 ---
 <br>
