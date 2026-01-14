@@ -104,19 +104,35 @@ I like to build things — whether it’s a polished website, a futuristic conce
 
 
 ---
+🚀 What I Do (Simplified & Sharper)
+Web Development
+Build responsive, user‑friendly websites
 
-## 🚀 What I Do
-- **Web Development** — Responsive layouts, clean CSS, Bootstrap themes, and user‑focused design  
-- **Automation & Tooling** — Makefile setups, workflow optimization, and efficient build systems  
-- **Blockchain Experiments** — Smart contracts, proof‑of‑concept DApps, and encryption fundamentals  
-- **Creative Engineering** — Futuristic concepts like SolarPads, AVES, and modular UI systems  
-- **Professional Branding** — Resume templates, portfolio sites, and polished presentation  
+Clean CSS, Bootstrap themes, and modern UI layouts
+
+Automation & Tooling
+Streamline workflows with Makefiles and custom tooling
+
+Create efficient build and deployment systems
+
+Blockchain Experiments
+Explore smart contracts and small DApp prototypes
+
+Work with encryption basics and blockchain concepts
+
+Creative Engineering
+Develop futuristic ideas like SolarPads, AVES, and modular UI systems
+
+Blend imagination with practical engineering
+
+Professional Branding
+Design resumes, portfolios, and polished personal branding assets
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** HTML, CSS, JavaScript, Python, Solidity, C/C++  
+- **Languages:** HTML, CSS, JavaScript, Python, Solidity, psuedo code.  
 - **Frameworks & Tools:** Bootstrap, Hardhat, React, Github. Perl.
 
 - **Specialties:**
@@ -141,4 +157,4 @@ GitHub Sponsors allows individuals and organizations to financially support open
 ```
 ---
 
-Made with care 👽 -- Top Code [@Coderad32]
+Made with care 👽 -- Top Code [@Coderad32] Take Care.
