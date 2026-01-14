@@ -1,25 +1,22 @@
-# HI There! 
+# HI There! It's time to resume !
+## Github A Tool
 
-## Goto: workspace: Github /@Coderad32 #Remote #Jobs
-```
+## Goto: workspace: Github /@Coderad32 #Remote #Resume #Jobs
 
-Software Design: From Scratch Development [META]
-    Development: Post Labs Research [DATA]
-     Authorship: Top Code ( @Coderad32 ) Cody Bunnell
+> **Authorship**: Top Code ( @Coderad32 ) "Cody Bunnell"
 
-```
+A personal project I work on in my free time, where I can learn and grow
+new methods && skills, crafting new software to meet the requirements.
 
-A personal project I work on in my free time, where I can develop
-new methods && skills crafting software to meet my needs.
+With That being said: Id like to spend more time working on these 
+projects I have created as an artist or developer, developing crafting software. 
 
-With That being said: Id like to spend more time working on these
-projects I have created as an artist or developer, developing 
-crafting software. Open Source Software. 2026
+> Open Source Software. 2026
 
-View [X.com/coderad32](X) at your own risk.
+**View** [X.com/coderad32](X) at your own risk.
 
 
-## Places I Goto
+## Profile Workspaces
 ```
 - X            → [@Coderad32](https://x.com/Coderad32)
 - Google       → [@coderad32](https://www.g.dev/coderad32)
@@ -29,21 +26,15 @@ View [X.com/coderad32](X) at your own risk.
 ---
 <br>
 
-## Why 
+## Why Information Technology ?
 
-I'd like an opportunity/chance to work on projects I have developed
-over time and space. With your support continue to craft the software that is located here-in.
+I'd like an **opportunity/chance** to work on projects helping grow the community
+over time and space. With your support continue to craft the software that is located here on my account.
 
-With Collaboration / Contribution / Support I want to be bold about what I do on github with your kind support I know I will make good projects. 
+With **Collaboration** / **Contribution** / **Support** 
+I desire to build new projects on github with your kindness &&|| support. 
 
-So ... without any further-ado [Mars Preserve Co-Op]{Source Code} at github.com/marspreserve
-a research | educational repository.
-
-Thanks, For any opportunity you could provide.
-
-**Micro Wins Everyday**
-
-## Welcome
+So ... without any further-ado [Mars Preserve Co-Op]{Source Code} at github.com/marspreserve > Research | Educational > Repository.
 
 Thanks for checking out the project. This workspace collects several small projects and research efforts related to farming technology, secure protocols, and EV infrastructure power generation and wealth building.
 
@@ -117,11 +108,13 @@ I’m a self‑taught developer based in the mountains of Colorado, where I work
 ---
 
 ## 🛠️ Skills & Technologies
+
 - **Languages:** HTML, CSS, JavaScript, Python, Solidity, C/C++  
-- **Frameworks & Tools:** Bootstrap, Hardhat, React, Git/GitHub  
-- **Specialties:**  
+- **Frameworks & Tools:** Bootstrap, Hardhat, React, Github. Perl.
+
+- **Specialties:**
+
   - Responsive web design  
-  - Automation toolchains  
   - Smart contract development  
   - UX‑focused layouts  
   - Blockchain proof‑of‑concepts  
@@ -131,9 +124,6 @@ I’m a self‑taught developer based in the mountains of Colorado, where I work
 
 ## 📌 Current Focus
 - Enhancing my GitHub with clean, well‑documented projects  
-- Building a professional resume website  
-- Developing advanced blockchain scripts and DApps  
-- Designing modular HTML/CSS layouts for future projects  
 - Growing *Mars Preserve*, my long‑term organic software vision  
 
 ---
