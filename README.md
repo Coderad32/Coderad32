@@ -1,5 +1,5 @@
-# HI There! It's time to resume !
-## Github A Tool
+# HI There! It's time to resume
+## Github Full of Tools
 
 ## Goto: workspace: Github /@Coderad32 #Remote #Resume #Jobs
 
@@ -95,7 +95,7 @@ For more information can be found online | thanks for taking the time to check o
 
 I hope we can work together on a project.
 
-### Self‑Taught Software Developer |
+### Information Technology 
 
 Builder of Practical & Futuristic Ideas
 
