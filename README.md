@@ -90,7 +90,10 @@ If you'd like to get in touch, the following links are maintained by the project
 - https://www.X.com/coderad32
 - https://www.github.com/coderad32
 
-Follow + Share = Learn More ( Updates ) for more information can be found online and thanks for taking the time to check out my profile I hope we can work together on a project.
+Follow + Share = Learn More ( Updates ) 
+For more information can be found online | thanks for taking the time to check out my profile. 
+
+I hope we can work together on a project.
 
 ### Self‑Taught Software Developer |
 
@@ -98,35 +101,31 @@ Builder of Practical & Futuristic Ideas
 
 I’m a self‑taught developer based in the mountains of Colorado, where I work remotely and build software that blends creativity, practicality, and curiosity. 
 
-I like exploring new tools, designing clean interfaces, and developing systems that solve real problems — from blockchain experiments to polished resume websites. Self‑driven learner who enjoys the independence of remote work and the quiet of the mountains. 
+Exploring new tools, designing clean interfaces, and developing systems that solve real problems — from blockchain experiments to polished resume websites. Self‑driven learner who enjoys the independence of remote work and the quiet of the mountains. 
 
-I like to build things — whether it’s a polished website, a futuristic concept, or a clever automation script. Every project is a chance to learn something new.
-
+To build things — whether it’s a polished website, a futuristic concept, or a clever automation script. Every project is a chance to learn something new.
 
 ---
-🚀 What I Do (Simplified & Sharper)
-Web Development
-Build responsive, user‑friendly websites
 
-Clean CSS, Bootstrap themes, and modern UI layouts
+## Web Development
+- Build responsive, user‑friendly websites
+- Clean CSS, Bootstrap themes, and modern UI layouts
 
-Automation & Tooling
-Streamline workflows with Makefiles and custom tooling
+## Automation & Tooling
+- Streamline workflows with Makefiles and custom tooling
+- Create efficient build and deployment systems
 
-Create efficient build and deployment systems
+## Blockchain Experiments
+- Explore smart contracts and small DApp prototypes
+- Work with token basics and blockchain technology concepts
 
-Blockchain Experiments
-Explore smart contracts and small DApp prototypes
-
-Work with encryption basics and blockchain concepts
-
-Creative Engineering
+## Creative Engineering
 Develop futuristic ideas like SolarPads, AVES, and modular UI systems
 
 Blend imagination with practical engineering
 
-Professional Branding
-Design resumes, portfolios, and polished personal branding assets
+## Professional Branding
+Design resumes, portfolios, / polished personal branding > assets
 
 ---
 
@@ -139,7 +138,7 @@ Design resumes, portfolios, and polished personal branding assets
 
   - Responsive web design  
   - Smart contract development  
-  - UX‑focused layouts  
+  - UX‑focused layouts  wireframes sketches & psuedo code
   - Blockchain proof‑of‑concepts  
   - Professional resume/portfolio design  
 
