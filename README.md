@@ -33,6 +33,13 @@ over time and space. With your support continue to craft the software that is lo
 
 With **Collaboration** / **Contribution** / **Support** 
 I desire to build new projects on github with your kindness &&|| support. 
+Builder of Practical & Futuristic Ideas
+
+I’m a self‑taught developer based in the mountains of Colorado, where I work remotely and build software that blends creativity, practicality, and curiosity. 
+
+Exploring new tools, designing clean interfaces, and developing systems that solve real problems — from blockchain experiments to polished resume websites. Self‑driven learner who enjoys the independence of remote work and the quiet of the mountains. 
+
+To build things — whether it’s a polished website, a futuristic concept, or a clever automation script. Every project is a chance to learn something new.
 
 So ... without any further-ado [Mars Preserve Co-Op]{Source Code} at github.com/marspreserve > Research | Educational > Repository.
 
@@ -94,16 +101,6 @@ Follow + Share = Learn More ( Updates )
 For more information can be found online | thanks for taking the time to check out my profile. 
 
 I hope we can work together on a project.
-
-### Information Technology 
-
-Builder of Practical & Futuristic Ideas
-
-I’m a self‑taught developer based in the mountains of Colorado, where I work remotely and build software that blends creativity, practicality, and curiosity. 
-
-Exploring new tools, designing clean interfaces, and developing systems that solve real problems — from blockchain experiments to polished resume websites. Self‑driven learner who enjoys the independence of remote work and the quiet of the mountains. 
-
-To build things — whether it’s a polished website, a futuristic concept, or a clever automation script. Every project is a chance to learn something new.
 
 ---
 
