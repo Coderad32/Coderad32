@@ -15,16 +15,10 @@ projects I have created as an artist or developer, developing crafting software.
 
 **View** [X.com/coderad32](X) at your own risk.
 
-
-## Profile Workspaces
-```
-- X            → [@Coderad32](https://x.com/Coderad32)
-- Google       → [@coderad32](https://www.g.dev/coderad32)
-- GitHub       → [@Coderad32](https://github.com/Coderad32)
-- Youtube      → [@Coderad32](https://www.youtube.com/Coderad32)
-```
----
 <br>
+## About The Project
+All information is listed in the repo=tab section find out more github.com/coderad32
+I want to build a community around these projects so that they can take shape find funding and get going.
 
 ## Why Information Technology ?
 
