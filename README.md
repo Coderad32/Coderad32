@@ -120,8 +120,5 @@ I hope we can work together on a project.
 GitHub Sponsors allows individuals and organizations to financially support open source developers and projects directly on GitHub. 
 You can sponsor contributors for the work they do, helping sustain and grow their projects.
 
-```
-```
----
 
-Made with care 👽 -- Top Code [@Coderad32] Take Care.
+Made with TLC 👽 -- Top Code [@Coderad32] Take Care.
