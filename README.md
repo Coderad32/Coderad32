@@ -3,21 +3,27 @@
 
 ## Goto: workspace: Github /@Coderad32 #Remote #Resume #Jobs
 
-> **Authorship**: Top Code ( @Coderad32 ) "Cody Bunnell"
+> **Authorship**: Top Code ( @Coderad32 )
 
-A personal project I work on in my free time, where I can learn and grow
-new methods && skills, crafting new software to meet the requirements.
+A personal project I work on in my free time, where 
 
-With That being said: Id like to spend more time working on these 
+I can learn and grow new methods && skills, crafting new software to meet the requirements.
+
+With That being said: 
+
+Id like to spend more time working on these 
 projects I have created as an artist or developer, developing crafting software. 
 
-> Open Source Software. 2026
+> Open Source Software. **2026**
 
 **View** [X.com/coderad32](X) at your own risk.
 
 <br>
-## About The Project
-All information is listed in the repo=tab section find out more github.com/coderad32
+
+## About This Project | Workspace
+
+All information is listed in the repo=tab section find out more information via github.com/coderad32
+
 I want to build a community around these projects so that they can take shape find funding and get going.
 
 ## Why Information Technology ?
@@ -30,11 +36,17 @@ With **Collaboration** / **Contribution** / **Support**
 I desire to build new projects on github with your kindness &&|| support. 
 Builder of Practical & Futuristic Ideas
 
+## Who am I ?
+
 I’m a self‑taught developer based in the mountains of Colorado, where I work remotely and build software that blends creativity. 
+
+## Future‑Focused Software Developer
 
 Exploring new tools, designing clean interfaces, and developing systems that solve real problems — from blockchain experiments to polished resume websites. Self‑driven learner who enjoys the independence of remote work and the quiet of the mountains. 
 
 To build things — whether it’s a polished website, a futuristic concept, or a clever automation script. Every project is a chance to learn something new.
+
+## More So
 
 So ... without any further-ado [Mars Preserve Co-Op]{Source Code} at github.com/marspreserve > Research | Educational > Repository.
 
@@ -99,50 +111,14 @@ I hope we can work together on a project.
 
 ---
 
-## Web Development
-- Build responsive, user‑friendly websites
-- Clean CSS, Bootstrap themes, and modern UI layouts
-
-## Automation & Tooling
-- Streamline workflows with Makefiles and custom tooling
-- Create efficient build and deployment systems
-
-## Blockchain Experiments
-- Explore smart contracts and small DApp prototypes
-- Work with token basics and blockchain technology concepts
-
-## Creative Engineering
-Develop futuristic ideas like SolarPads, AVES, and modular UI systems
-
-Blend imagination with practical engineering
-
-## Professional Branding
-Design resumes, portfolios, / polished personal branding > assets
-
----
-
-## 🛠️ Skills & Technologies
-
-- **Languages:** HTML, CSS, JavaScript, Python, Solidity, psuedo code.  
-- **Frameworks & Tools:** Bootstrap, Hardhat, React, Github. Perl.
-
-- **Specialties:**
-
-  - Responsive web design  
-  - Smart contract development  
-  - UX‑focused layouts  wireframes sketches & psuedo code
-  - Blockchain proof‑of‑concepts  
-  - Professional resume/portfolio design  
-
----
-
 ## 📌 Current Focus
 - Enhancing my GitHub with clean, well‑documented projects  
 - Growing *Mars Preserve*, my long‑term organic software vision  
 ---
 
 ## What is GitHub Sponsorship?
-GitHub Sponsors allows individuals and organizations to financially support open source developers and projects directly on GitHub. You can sponsor contributors for the work they do, helping sustain and grow their projects.
+GitHub Sponsors allows individuals and organizations to financially support open source developers and projects directly on GitHub. 
+You can sponsor contributors for the work they do, helping sustain and grow their projects.
 
 ```
 ```
