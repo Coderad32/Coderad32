@@ -1,124 +1,61 @@
-# HI There! It's time to resume
-## Github Full of Tools
+🏔️ Coderad32 | Software Craftsmanship
+Building Practical & Futuristic Open-Source Systems
+Based in the Colorado Mountains | Remote | Self-Taught
 
-## Goto: workspace: Github /@Coderad32 #Remote #Resume #Jobs
+Welcome to my workspace. I blend creative artistry with technical infrastructure to solve real-world problems—from blockchain gaming to solar-powered transit and sustainable agriculture.
 
-> **Authorship**: Top Code ( @Coderad32 )
+My mission is simple: To build tools that empower communities through open-source innovation.
 
-A personal project I work on in my free time, where 
+🛠️ Key Projects & Research
+🌿 Mars Preserve Co-Op
+Focus: Ag-Tech & Cooperative Management
 
-I can learn and grow new methods && skills, crafting new software to meet the requirements.
+The Goal: Automating organic farming and data-driven crop planning.
 
-With That being said: 
+Tech: Farm management software, automation scripts, and resource tracking.
 
-Id like to spend more time working on these 
-projects I have created as an artist or developer, developing crafting software. 
+Part of the Mars Preserve Organization.
 
-> Open Source Software. **2026**
+⚡ Solar Pads (SPEV)
+Focus: Renewable Energy Infrastructure
 
-**View** [X.com/coderad32](X) at your own risk.
+The Goal: Transforming standard EVs into Solar-Powered Electric Vehicles (SPEVs).
 
-<br>
+Tech: Hardware integration logic, charging schedules, and real-time monitoring.
 
-## About This Project | Workspace
+🔐 XTTPS / XSSL
+Focus: Experimental Cybersecurity
 
-All information is listed in the repo=tab section find out more information via github.com/coderad32
+The Goal: Researching alternative secure communication protocols and custom certificate validation methods.
 
-I want to build a community around these projects so that they can take shape find funding and get going.
+Status: Research & Experimental Implementation.
 
-## Why Information Technology ?
+🎮 Blockchain Game Studios (BGS)
+Focus: Web3 & Gaming
 
-I'd like an **opportunity/chance** to work on projects helping grow the community
-over time and space. With your support continue to craft the software that is located here on my account.
+The Goal: Building the next generation of decentralized gaming experiences.
 
-With **Collaboration** / **Contribution** / **Support** 
+💎 Specialized Tools
+Sigil Key Map: A unique matrix-cube token legend for symbolic data mapping.
 
-I desire to build new projects on github with your kindness &&|| support. 
-Builder of Practical & Futuristic Ideas
+The Open System: A streamlined Shell-based menu for rapid CLI navigation.
 
-## Who am I ?
+Slots: Logistics management for humanitarian shipping container storage.
 
-I’m a self‑taught developer based in the mountains of Colorado, where I work remotely and build software that blends creativity. 
+📌 Current 2026 Roadmap
+Documentation: Cleaning up repo histories for easier onboarding.
 
-## Future‑Focused Software Developer
+Community Building: Moving Mars Preserve from a solo project to a funded co-op.
 
-Exploring new tools, designing clean interfaces, and developing systems that solve real problems — from blockchain experiments to polished resume websites. Self‑driven learner who enjoys the independence of remote work and the quiet of the mountains. 
+Protocol Testing: Stress-testing XTTPS in sandbox environments.
 
-To build things — whether it’s a polished website, a futuristic concept, or a clever automation script. Every project is a chance to learn something new.
+🤝 Collaboration & Support
+I am actively seeking contributors, partners, and sponsors to help these ideas take flight. If you value independent, self-driven software development that focuses on the future, let's connect.
 
-## More So
+Sponsor Me: GitHub Sponsors
 
-So ... without any further-ado [Mars Preserve Co-Op]{Source Code} at github.com/marspreserve > Research | Educational > Repository.
+Connect on X: @Coderad32
 
-Thanks for checking out the project. This workspace collects several small projects and research efforts related to farming technology, secure protocols, and EV infrastructure power generation and wealth building.
+Codebase: github.com/coderad32
 
-## Mars Preserve Co-Op
-
-Mars Preserve is a smaller co-op focused on farming and developing software tools for agriculture and farm management. The project explores automation, data-driven crop planning, and tools to support cooperative farms.
-
-Repository: https://github.com/Coderad32/Perserve
-
-## XTTPS / XSSL ( Custom Protocol )
-
-XTTPS and XSSL are custom protocol and certificate-validation projects. They explore alternatives for secure communication and certificate handling, research into protocol design, and experimental implementations intended for testing and learning.
-
-Repository: https://github.com/Coderad32/XTTPS
-
-## Solar Pads ( SPEV Technology )
-
-Solar Pads are solar charging units for electric vehicles (EVs), turning them into SPEVs (Solar-Powered Electric Vehicles). The project covers hardware integration, charging control logic, and software for monitoring and scheduling charging sessions.
-
-Repository: https://github.com/Coderad32/SolarPads
-
-## Sigil Key Mapper ( Crystal Technology )
-
-Special Tokens Key Map Legend -- A matrix cube
-of token sigils with meaning beyond what the computer 
-knows about.
-
-Repository: https://github.com/Coderad32/SigilKeyMap
-
-
-## The Open System ( Shell Menu )
-
-A menu created in shell code to demonstrate a menu options.
-
-Repository: https://github.com/Coderad32/TheOpenSystem
-
-## Slots ( Mobile Garden Options )
-
-Shipping containers are essential for transporting goods and donations across long distances, especially for humanitarian aid and disaster relief. Proper storage and management of these containers ensure that donations reach their destinations efficiently and safely.
-
-Repository: https://github.com/Coderad32/Slots
-
-## Blockchain Game Studios (BGS)
-
-The one and only game studio build with blockchain in mind.
-
-Repository: https://github.com/Coderad32/BlockchainGameStudios
-
-## Connect / Contact me directly
-
-If you'd like to get in touch, the following links are maintained by the project founder and top developer:
-
-- https://www.X.com/coderad32
-- https://www.github.com/coderad32
-
-Follow + Share = Learn More ( Updates ) 
-For more information can be found online | thanks for taking the time to check out my profile. 
-
-I hope we can work together on a project.
-
----
-
-## 📌 Current Focus
-- Enhancing my GitHub with clean, well‑documented projects  
-- Growing *Mars Preserve*, my long‑term organic software vision  
----
-
-## What is GitHub Sponsorship?
-GitHub Sponsors allows individuals and organizations to financially support open source developers and projects directly on GitHub. 
-You can sponsor contributors for the work they do, helping sustain and grow their projects.
-
-
-Made with TLC 👽 -- Top Code [@Coderad32] Take Care.
+"Crafting software to meet the requirements of the future." — Top Code
