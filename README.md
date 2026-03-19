@@ -1,4 +1,4 @@
-## 🏔️ Coderad32 | Software Craftsmanship
+## 🏔️ Coderad32
 
 Building Practical & Futuristic Open-Source Systems
 Based in the Colorado Mountains | Remote | Self-Taught
