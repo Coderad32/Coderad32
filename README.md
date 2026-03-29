@@ -9,11 +9,12 @@ My mission is simple: To build tools that empower communities through open-sourc
 
 ## 🛠️ Key Projects & Research
 ## 🌿 Mars Preserve Co-Op
+
 Focus: Ag-Tech & Cooperative Management
 
 The Goal: Automating organic farming and data-driven crop planning.
 
-Tech: Farm management software, automation scripts, and resource tracking.
+@Tech: Farm management software, automation scripts, and resource tracking.
 
 Part of the Mars Preserve Organization.
 
