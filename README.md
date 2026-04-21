@@ -1,6 +1,7 @@
+
 ## 🤝 Collaboration & Support
 
-I am actively seeking contributors, partners, and sponsors to help these ideas take flight. If you value independent, self-driven software development that focuses on the future, let's connect.
+Working on work =?
 
 Sponsor Me: GitHub Sponsors
 
