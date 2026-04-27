@@ -6,7 +6,7 @@ out there that are helpful in terms of being resourceful.
 
 Starting a farm can be difficult but doesnt have to be.
 
-Hydro System | I level up.
+Hydro System | Vertical Racks
 
 ### Projects hosted
 
@@ -26,16 +26,28 @@ Codebase: github.com/coderad32
 
 "Crafting software to meet the requirements of the future."
 
-```perl
-
 ## Custom Source Code
 
 Source Code Infomrational Research DATA[VALUE 1 || 0]
 
-- Facts::Answers
-- Real::Time
-- Options::Share
-- Info::Dashboard
+```perl
+
+read only
+use english
+
+BEGIN: app/DATA => Application/DATA -> DATA()
+
+- Facts::Answers       # FA: Facts  Answers
+- Real::Time           # RT: Real      Time
+- Options::Share       # OS: Options  Share
+- Info::Dashboard      # ID: Info Dashboard
+
+exit(system)
+return(value)
+END
+EOF
+
+```
 
 ## Credits Open Source
 Thanks to all the tools out there in the open source community.
