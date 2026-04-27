@@ -28,7 +28,7 @@ Codebase: github.com/coderad32
 
 ## Custom Source Code
 
-Source Code Infomrational Research DATA[VALUE 1 || 0]
+Source Code Informational Research DATA[VALUE 1 || 0]
 
 ```perl
 
