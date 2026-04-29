@@ -1,53 +1,16 @@
-## Welcome PR
-### About
+# Welcome
 
-I would like to take the opportunity to thank all the people
-out there that are helpful in terms of being resourceful.
+---
 
-Starting a farm can be difficult but doesnt have to be.
+## About
 
-Hydro System | Vertical Racks
-
-### Projects hosted
-
-Each project is available to work on
-but if you want to start something new
-let me know and I could help out.
+With experience in smaller projects, I am a Developer with a vision for a clean, efficient, and accessible future, where I can be consistently challenged in my work. I am dedicated to working to my fullest potential and am always looking for opportunities to contribute. I am actively working to support my side hustle as a web developer and cover the overhead costs of my projects, while simultaneously building a fulfilling career and continually learning the necessary skills.
 
 ## Collaboration & Support
 
-Working on work =?
+I am seeking collaboration and support from anyone who is interested in contributing to or collaborating with the projects hosted on my GitHub. If you are looking for a way to get involved, please submit a Pull Request (PR) to any of my projects and let me know about it. With your collaboration there is no telling
+how far the project may go and with your support the project will get finished.
 
-Sponsor Me: GitHub Sponsors
+## Connect | Contact
 
-Connect on X: @Coderad32
-
-Codebase: github.com/coderad32
-
-"Crafting software to meet the requirements of the future."
-
-## Custom Source Code
-
-Source Code Informational Research DATA[VALUE 1 || 0]
-
-```perl
-
-read only
-use english
-
-BEGIN: app/DATA => Application/DATA -> DATA()
-
-- Facts::Answers       # FA: Facts  Answers
-- Real::Time           # RT: Real      Time
-- Options::Share       # OS: Options  Share
-- Info::Dashboard      # ID: Info Dashboard
-
-exit(system)
-return(value)
-END
-EOF
-
-```
-
-## Credits Open Source
-Thanks to all the tools out there in the open source community.
+If you would like to connect or get in touch, you can find me on GitHub at github.com and on X (formerly Twitter) at x.com/coderad32.
