@@ -2,11 +2,11 @@
 ```
 My Project Portfolio:
 Blockchain & Web3 Focus:
-
 AI_Blockchain (AI & Blockchain Dapp)
 BlockchainGameStudios
 FTL-Dapp (P2P client)
 p2p-b4b (Blockchain Server-Network-socket)
+
 Infrastructure & Network:
 
 OpenFiles (Network file system)
@@ -17,11 +17,12 @@ AutoMaps (Drone mapping technology)
 AVES (Future Technology)
 SolarPads (EV charging)
 Perserve (Mars energy preservation)
-UI/Systems:
 
+UI/Systems:
 TheOpenSystem (Menu GUI)
 SigilKeyMap (Token/Key management)
-Learning/Profile: Several GitHub Skills repos and your profile repo
+
+
 ```
 ---
 
