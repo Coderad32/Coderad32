@@ -1,5 +1,4 @@
 # Welcome
-## About Me
 ```
 My Project Portfolio:
 Blockchain & Web3 Focus:
@@ -25,6 +24,8 @@ SigilKeyMap (Token/Key management)
 Learning/Profile: Several GitHub Skills repos and your profile repo
 ```
 ---
+
+## About Me
 
 With experience in smaller projects, I am a Developer with a vision for a clean, efficient, and accessible future, where I can be consistently challenged in my work. I am dedicated to working to my fullest potential and am always looking for opportunities to contribute. I am actively working to support my side hustle as a web developer and cover the overhead costs of my projects, while simultaneously building a fulfilling career and continually learning the necessary skills.
 
