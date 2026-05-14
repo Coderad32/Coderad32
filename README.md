@@ -1,7 +1,9 @@
 # Welcome
 ```
 My Project Portfolio:
+
 Blockchain & Web3 Focus:
+
 AI_Blockchain (AI & Blockchain Dapp)
 BlockchainGameStudios
 FTL-Dapp (P2P client)
@@ -11,6 +13,7 @@ Infrastructure & Network:
 
 OpenFiles (Network file system)
 XTTPS (Custom Protocol/Certificates/Crypto)
+
 Innovation Projects:
 
 AutoMaps (Drone mapping technology)
@@ -19,6 +22,7 @@ SolarPads (EV charging)
 Perserve (Mars energy preservation)
 
 UI/Systems:
+
 TheOpenSystem (Menu GUI)
 SigilKeyMap (Token/Key management)
 
