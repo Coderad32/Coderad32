@@ -1,6 +1,29 @@
 # Welcome
 ## About Me
+```
+My Project Portfolio:
+Blockchain & Web3 Focus:
 
+AI_Blockchain (AI & Blockchain Dapp)
+BlockchainGameStudios
+FTL-Dapp (P2P client)
+p2p-b4b (Blockchain Server-Network-socket)
+Infrastructure & Network:
+
+OpenFiles (Network file system)
+XTTPS (Custom Protocol/Certificates/Crypto)
+Innovation Projects:
+
+AutoMaps (Drone mapping technology)
+AVES (Future Technology)
+SolarPads (EV charging)
+Perserve (Mars energy preservation)
+UI/Systems:
+
+TheOpenSystem (Menu GUI)
+SigilKeyMap (Token/Key management)
+Learning/Profile: Several GitHub Skills repos and your profile repo
+```
 ---
 
 With experience in smaller projects, I am a Developer with a vision for a clean, efficient, and accessible future, where I can be consistently challenged in my work. I am dedicated to working to my fullest potential and am always looking for opportunities to contribute. I am actively working to support my side hustle as a web developer and cover the overhead costs of my projects, while simultaneously building a fulfilling career and continually learning the necessary skills.
