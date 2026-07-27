@@ -15,7 +15,7 @@ My Project Portfolio:
 
 ─────────────────────────────────────────────────────────
 Blockchain & Web3 Focus:
-
+─────────────────────────────────────────────────────────
 AI_Blockchain (AI & Blockchain Dapp)
 BlockchainGameStudios
 FTL-Dapp (P2P client)
