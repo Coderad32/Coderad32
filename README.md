@@ -12,30 +12,32 @@ My Project Portfolio:
   │     • YouTube:     youtube.com/coderad32                 
   │     • Twitch:      twitch.com/coderad32                  
   └─────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────
 Blockchain & Web3 Focus:
 
 AI_Blockchain (AI & Blockchain Dapp)
 BlockchainGameStudios
 FTL-Dapp (P2P client)
 p2p-b4b (Blockchain Server-Network-socket)
-
+─────────────────────────────────────────────────────────
 Infrastructure & Network:
-
+─────────────────────────────────────────────────────────
 OpenFiles (Network file system)
 XTTPS (Custom Protocol/Certificates/Crypto)
-
+─────────────────────────────────────────────────────────
 Innovation Projects:
-
+─────────────────────────────────────────────────────────
 AutoMaps (Drone mapping technology)
 AVES (Future Technology)
 SolarPads (EV charging)
 Perserve (Mars energy preservation)
-
+─────────────────────────────────────────────────────────
 UI/Systems:
-
+─────────────────────────────────────────────────────────
 TheOpenSystem (Menu GUI)
 SigilKeyMap (Token/Key management)
-
+─────────────────────────────────────────────────────────
 
 ```
 ---
@@ -50,6 +52,7 @@ I am seeking collaboration and support from anyone who is interested in contribu
 how far the project may go and with your support the project will get finished.
 
 ## Connect | Contact | Network
+Find me online at X.com/coderad32 or github.com/coderad32 for more information.
 
 If you would like to connect or get in touch, you can find me on GitHub at github.com and on X (formerly Twitter) at x.com/coderad32.
 
