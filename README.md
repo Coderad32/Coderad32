@@ -2,6 +2,16 @@
 ```
 My Project Portfolio:
 
+[ @coderad32 ]
+            [ Programming & Cryptography Division ]
+
+  ┌─────────────────────────────────────────────────────────┐
+  │  🔗 Social Links:                                       │
+  │     • X (Twitter): x.com/coderad32                       │
+  │     • GitHub:      github.com/coderad32                  │
+  │     • YouTube:     youtube.com/coderad32                 │
+  │     • Twitch:      twitch.com/coderad32                  │
+  └─────────────────────────────────────────────────────────-┘
 Blockchain & Web3 Focus:
 
 AI_Blockchain (AI & Blockchain Dapp)
