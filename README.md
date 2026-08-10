@@ -1,6 +1,6 @@
 # Welcome
 ```
-My Project Portfolio:
+My Project Portfolio: Application/DATA
 
 [ @coderad32 ]
             [ Programming & Cryptography ]
@@ -14,30 +14,30 @@ My Project Portfolio:
   └─────────────────────────────────────────────────────────
 
 ─────────────────────────────────────────────────────────
-Blockchain & Web3 Focus:
+Blockchain & Web3 Focus: Future Goals
 ─────────────────────────────────────────────────────────
 AI_Blockchain (AI & Blockchain Dapp)
 BlockchainGameStudios
 FTL-Dapp (P2P client)
 p2p-b4b (Blockchain Server-Network-socket)
 ─────────────────────────────────────────────────────────
-Infrastructure & Network:
+Infrastructure & Network: Planned Projects
 ─────────────────────────────────────────────────────────
 OpenFiles (Network file system)
 XTTPS (Custom Protocol/Certificates/Crypto)
 ─────────────────────────────────────────────────────────
-Innovation Projects:
+Innovation Projects: What Inspires me
 ─────────────────────────────────────────────────────────
 AutoMaps (Drone mapping technology)
 AVES (Future Technology)
 SolarPads (EV charging)
 Perserve (Mars energy preservation)
 ─────────────────────────────────────────────────────────
-UI/Systems:
+UI/Systems: UIX::G
 ─────────────────────────────────────────────────────────
 TheOpenSystem (Menu GUI)
 SigilKeyMap (Token/Key management)
-─────────────────────────────────────────────────────────
+
 
 ```
 ---
