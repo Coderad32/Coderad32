@@ -6,7 +6,7 @@ My Project Portfolio: Application/DATA
             [ Programming & Cryptography ]
 
   ┌─────────────────────────────────────────────────────────
-  │  🔗 Social Links:                                       
+  │  Social Links: Places I frequently goto                                       
   │     • X (Twitter): x.com/coderad32                      
   │     • GitHub:      github.com/coderad32                  
   │     • YouTube:     youtube.com/coderad32                 
@@ -42,9 +42,10 @@ SigilKeyMap (Token/Key management)
 ```
 ---
 
-## About Me
+## About Me (Coderad32)
 
-With experience in smaller projects, I am a Developer with a vision for a clean, efficient, and accessible future, where I can be consistently challenged in my work. I am dedicated to working to my fullest potential and am always looking for opportunities to contribute. I am actively working to support my side hustle as a web developer and cover the overhead costs of my projects, while simultaneously building a fulfilling career and continually learning the necessary skills.
+My journey into programming began when I first started exploring the digital space. My work reflects the projects I am currently developing, all of which are showcased here. Outside of programming, I enjoy an active lifestyle; I spend my time hiking with my dog, listening to music, traveling, and connecting with new people. I prioritize quality time with my family and embrace the outdoors through activities like skateboarding, snowboarding, hunting, and fishing. Having lived in the Rocky Mountains after spending time on the West Coast, I deeply value nature and aim to balance my professional commitments with time spent in the wild. After dedicating a decade to skill development without a primary focus on monetization, web development has become more than just a profession—it is a personal mission centered on continuous learning and self-improvement. This profile serves as a roadmap for my future goals and ongoing projects.
+
 
 ## Collaboration & Support Efforts
 ```perl
@@ -61,12 +62,9 @@ $) $! $@ $# $$ $% $^ $& $* $(
 () (! (@ (# ($ (% (^ (& (* ((
 !))
 
-```
-I am seeking collaboration and support from anyone who is interested in contributing to or collaborating with the projects hosted on my GitHub. If you are looking for a way to get involved, please submit a Pull Request (PR) to any of my projects and let me know about it. With your collaboration there is no telling
-how far the project may go and with your support the project will get finished.
+```I am actively seeking collaboration and support from individuals interested in contributing to the projects hosted on my GitHub repository. If you would like to participate, please submit a Pull Request (PR) to any of my repositories and notify me of your contribution. With your partnership, we can significantly expand the scope of these projects and ensure their successful completion.
 
-## Connect | Contact | Network
-Find me online at X.com/coderad32 or github.com/coderad32 for more information.
+## Connect | Contact | Networking
 
-If you would like to connect or get in touch, you can find me on GitHub at github.com and on X (formerly Twitter) at x.com/coderad32.
+I invite you to connect with me or reach out regarding potential collaborations. You can find my latest updates and professional information on GitHub at github.com/coderad32 and on X (formerly Twitter) at x.com/coderad32.
 
