@@ -62,9 +62,11 @@ $) $! $@ $# $$ $% $^ $& $* $(
 () (! (@ (# ($ (% (^ (& (* ((
 !))
 
-```I am actively seeking collaboration and support from individuals interested in contributing to the projects hosted on my GitHub repository. If you would like to participate, please submit a Pull Request (PR) to any of my repositories and notify me of your contribution. With your partnership, we can significantly expand the scope of these projects and ensure their successful completion.
-
+```
 ## Connect | Contact | Networking
+
+I am actively seeking collaboration and support from individuals interested in contributing to the projects hosted on my GitHub repository. If you would like to participate, please submit a Pull Request (PR) to any of my repositories and notify me of your contribution. With your partnership, we can significantly expand the scope of these projects and ensure their successful completion.
 
 I invite you to connect with me or reach out regarding potential collaborations. You can find my latest updates and professional information on GitHub at github.com/coderad32 and on X (formerly Twitter) at x.com/coderad32.
 
+If you need some help let me know in the comments.
