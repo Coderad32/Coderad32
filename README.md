@@ -50,6 +50,8 @@ My journey into programming began when I first started exploring the digital spa
 ## Collaboration & Support Efforts
 ```perl
 
+Concept of 100 from 1
+
 ! @ # $ % ^ & * ( !)
 !! !@ !# !$ !% !^ !& !* !(
 @) @! @@ @# @$ @% @^ @& @* @(
@@ -61,6 +63,23 @@ $) $! $@ $# $$ $% $^ $& $* $(
 *) *! *@ *# *$ *% *^ *& ** *(
 () (! (@ (# ($ (% (^ (& (* ((
 !))
+
+```
+
+```
+Updated Version Build
+
+@) @! @@ @# @# @% @^ @& @* @(
+#) #! #@ ## ## #% #^ #& #* #(
+#) #! #@ ## ## #% #^ #& #* #(
+%) %! %@ %# %# %% %^ %& %* %( 
+^) ^! ^@ ^# ^# ^% ^^ ^& ^* ^(
+&) &! &@ &# &# &% &^ && &* &( 
+*) *! *@ *# *# *% *^ *& ** *(
+() (! (@ (# (# (% (^ (& (* (( 
+!))
+
+
 
 ```
 ## Connect | Contact | Networking
