@@ -46,42 +46,6 @@ SigilKeyMap (Token/Key management)
 
 My journey into programming began when I first started exploring the digital space. My work reflects the projects I am currently developing, all of which are showcased here. Outside of programming, I enjoy an active lifestyle; I spend my time hiking with my dog, listening to music, traveling, and connecting with new people. I prioritize quality time with my family and embrace the outdoors through activities like skateboarding, snowboarding, hunting, and fishing. Having lived in the Rocky Mountains after spending time on the West Coast, I deeply value nature and aim to balance my professional commitments with time spent in the wild. After dedicating a decade to skill development without a primary focus on monetization, web development has become more than just a profession—it is a personal mission centered on continuous learning and self-improvement. This profile serves as a roadmap for my future goals and ongoing projects.
 
-
-## Collaboration & Support Efforts
-```perl
-
-Concept of 100 from 1
-
-! @ # $ % ^ & * ( !)
-!! !@ !# !$ !% !^ !& !* !(
-@) @! @@ @# @$ @% @^ @& @* @(
-#) #! #@ ## #$ #% #^ #& #* #(
-$) $! $@ $# $$ $% $^ $& $* $(
-%) %! %@ %# %$ %% %^ %& %* %(
-^) ^! ^@ ^# ^$ ^% ^^ ^& ^* ^(
-&) &! &@ &# &$ &% &^ && &* &(
-*) *! *@ *# *$ *% *^ *& ** *(
-() (! (@ (# ($ (% (^ (& (* ((
-!))
-
-```
-
-```
-Updated Version Build
-
-@) @! @@ @# @# @% @^ @& @* @(
-#) #! #@ ## ## #% #^ #& #* #(
-#) #! #@ ## ## #% #^ #& #* #(
-%) %! %@ %# %# %% %^ %& %* %( 
-^) ^! ^@ ^# ^# ^% ^^ ^& ^* ^(
-&) &! &@ &# &# &% &^ && &* &( 
-*) *! *@ *# *# *% *^ *& ** *(
-() (! (@ (# (# (% (^ (& (* (( 
-!))
-
-
-
-```
 ## Connect | Contact | Networking
 
 I am actively seeking collaboration and support from individuals interested in contributing to the projects hosted on my GitHub repository. If you would like to participate, please submit a Pull Request (PR) to any of my repositories and notify me of your contribution. With your partnership, we can significantly expand the scope of these projects and ensure their successful completion.
