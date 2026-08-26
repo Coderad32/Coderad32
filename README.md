@@ -44,7 +44,11 @@ SigilKeyMap (Token/Key management)
 
 ## About Me (Coderad32)
 
-My journey into programming began when I first started exploring the digital space. My work reflects the projects I am currently developing, all of which are showcased here. Outside of programming, I enjoy an active lifestyle; I spend my time hiking with my dog, listening to music, traveling, and connecting with new people. I prioritize quality time with my family and embrace the outdoors through activities like skateboarding, snowboarding, hunting, and fishing. Having lived in the Rocky Mountains after spending time on the West Coast, I deeply value nature and aim to balance my professional commitments with time spent in the wild. After dedicating a decade to skill development without a primary focus on monetization, web development has become more than just a profession—it is a personal mission centered on continuous learning and self-improvement. This profile serves as a roadmap for my future goals and ongoing projects.
+My journey into programming began when I first started exploring the digital space. My work reflects the projects I am currently developing, all of which are showcased here. Outside of programming, I enjoy an active lifestyle; I spend my time hiking with my dog, listening to music, traveling, and connecting with new people. 
+
+I prioritize quality time with my family and embrace the outdoors through activities like skateboarding, snowboarding, hunting, and fishing. Having lived in the Rocky Mountains after spending time on the West Coast, I deeply value nature and aim to balance my professional commitments with time spent in the wild. 
+
+After dedicating a decade to skill development without a primary focus on monetization, web development has become more than just a profession—it is a personal mission centered on continuous learning and self-improvement. This profile serves as a roadmap for my future goals and ongoing projects.
 
 ## Connect | Contact | Networking
 
