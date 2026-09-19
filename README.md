@@ -1,7 +1,4 @@
 # Welcome
-
-Searching for a position somewhere remotely online let me know if there is a position boss ?
-
 ```
 My Project Portfolio: Application/DATA
 
