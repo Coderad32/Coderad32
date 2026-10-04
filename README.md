@@ -1,4 +1,6 @@
 # Welcome
+> Thanks for finding my project workspace I hope it serves as a useful reminder to what your working on
+> vs what i am building here on github.
 ```
 My Project Portfolio: Application/DATA
 
